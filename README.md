@@ -4,8 +4,7 @@
 
 ## List
 
-* 
-
+* [Zero To One](#zero-to-one) - Peter THIEL
 
 ### Zero To One
 
