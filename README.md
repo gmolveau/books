@@ -1,6 +1,4 @@
-# Books Resume
-
-> resume of books i've read
+# Personal notes on book i've read
 
 ## List
 
