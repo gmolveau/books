@@ -4,6 +4,7 @@
 
 * [Zero To One](#zero-to-one) - Peter THIEL
 * [Goodbye, Things](#goodbye-things) - Fumio SASAKI
+* [97 Things Every Programmer Should Know](#97-things-every-programmer-should-know) - Fumio SASAKI
 
 ### Zero To One
 
@@ -180,3 +181,9 @@ Recap: 15 more tips for the next stage of your minimalist journey
 13. The desire to discard and the desire to possess are flip sides of the same coin.
 14. Find your own minimalism.
 15. Minimalism is a method and a beginning.
+
+### 97 Things Every Programmer Should Know
+
+> 97 Things Every Programmer Should Know - Kevlin HENNEY - ISBN:978-0-59680-9485
+
+
