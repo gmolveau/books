@@ -4,7 +4,7 @@
 
 * [Zero To One](#zero-to-one) - Peter THIEL
 * [Goodbye, Things](#goodbye-things) - Fumio SASAKI
-* [97 Things Every Programmer Should Know](#97-things-every-programmer-should-know) - Fumio SASAKI
+* [97 Things Every Programmer Should Know](#97-things-every-programmer-should-know) - Kevlin HENNEY
 
 ### Zero To One
 
