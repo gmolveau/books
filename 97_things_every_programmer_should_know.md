@@ -1,6 +1,6 @@
 # 97 Things Every Programmer Should Know
 
-> Kevlin HENNEY - O'REILLY - ISBN-10: 0596809484 - ISBN-13: 978-0596809485
+> 97 Things Every Programmer Should Know - Kevlin HENNEY - O'REILLY - ISBN: 978-0596809485
 
 ## Super quick
 
@@ -12,7 +12,7 @@ do things right first instead of "dirty-and-come-back-later". if you did dirty, 
 
 read other's source code. wirte short methods (5-10 lines). achieve brevity.
 
-### Before you refactor	
+### Before you refactor
 
 write tests against current code. avoid the tempation to rewrite everything. make many small changes instead of big ones. use TDD. let your ego aside. new frameworks does not mean refactor.
 
@@ -33,7 +33,7 @@ if (portfolioIdsByTraderId.get(trader.GetId())
 if (trader.canView(portfolio)) {
 	[...]
 }
-```	
+```
 
 Working for a bank ? use bank's language "account, credit, ...". create types for your needs.
 
@@ -122,7 +122,7 @@ dont be afraid to throw code away, define your next easy end-goal
 
 ### Large, interconnected data belongs to a database
 
-easy to scale, writing database-centric app is quite easy. SQL is great.	
+easy to scale, writing database-centric app is quite easy. SQL is great.
 
 ### Make interfaces easy to use correctly and hard to use incorrectly
 
@@ -179,14 +179,14 @@ always typing the same things or clicking on the same buttons ? learn bash, powe
 	3 1 4 1 5 9 &rarr; 3 3 3 3 3 (does not work)
 
 * a good test should be readable
-	
+
 	3 1 4 1 5 9 &rarr; 1 1 3 4 5 9 (should be your test)
 
 * concrete examples are often better to illustrate a general behavior
 
 ### Two heads are often better than one
 
-Do pair-programming, 
+Do pair-programming,
 
 ### The unix tools are your friends
 
@@ -202,7 +202,7 @@ for (i=0; i<strlen(s); ++i) {
 	if(... s[i] ...) ...
 }
 ```
-	
+
 ### Write code as if you had to support it for the rest of your life
 
 imagine your old boss is legally able to call you at night to ask you design questions about the project you did 12 years ago.
