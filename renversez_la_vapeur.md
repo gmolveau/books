@@ -1,6 +1,6 @@
 # Renversez la vapeur!
 
-> Renversez la vapeur! - L. David MARQUET - ISBN: 978-2-89225-992-6
+> Renversez la vapeur! (Turn the ship around) - L. David MARQUET - ISBN: 978-2-89225-992-6
 
 ### Introduction
 
