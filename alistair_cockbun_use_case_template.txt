@@ -1,0 +1,231 @@
+# Use Case Template #1
+
+Here is the template, which you should copy and use.
+
+Use case name: <the name should be the goal as a short active verb phrase>
+Context of use: <a longer statement of the goal, if needed, its normal occurence conditions>
+Scope: <design scope, what system is being considered black-box under design>
+Level: <one of: summary, user-goal, subfunction>
+Primary Actor: <a role name for the primary actor or description>
+Stakeholders and Interests: <list of stakeholders and key interests in the use case>
+Precondition: <what we expect is already the state of the world>
+Minimal Guarantee: <how the interests are protected under all exits>
+Success Guarantee: <the state of the world if goal succeeds>
+Trigger: <what starts the use case, may be time event>
+Main Success Scenario: <put here the steps of the scenario from trigger to goal delivery and any cleanup after. Action descriptions are of the form "Actor ... action verb ... direct object ... prepositional phrase" >
+<step #> <action description>
+<step #> <action description>
+Extensions: <put here the extensions, one at a time, each referring to the step of the main scenario>
+<step altered> <condition>: <action or sub use case>
+<step altered> <condition>: <action or sub use case>
+Technology & Data Variations List: <put here the variations that will cause eventual bifurcation in the scenario>
+<step or variation #> <list of variations>
+<step or variation #> <list of variations>
+Related Information: <whatever your project needs for additional information>
+
+# Use Case Template #2
+
+Use Case: <number> <the name should be the goal as a short active verb phrase>
+
+--------------------------------------------------
+
+CHARACTERISTIC INFORMATION
+
+Goal in Context: <a longer statement of the goal, if needed>
+
+Scope: <what system is being considered black-box under design>
+
+Level: <one of: Summary, Primary task, Subfunction>
+
+Preconditions: <what we expect is already the state of the world>
+
+Success End Condition: <the state of the world upon successful completion>
+
+Failed End Condition: <the state of the world if goal abandoned>
+
+Primary Actor: <a role name for the primary actor, or description>
+
+Trigger: <the action upon the system that starts the use case, may be time event>
+
+----------------------------------------
+
+MAIN SUCCESS SCENARIO
+
+<put here the steps of the scenario from trigger to goal delivery, and any cleanup after>
+
+<step #> <action description>
+
+----------------------
+
+EXTENSIONS
+
+<put here there extensions, one at a time, each refering to the step of the main scenario>
+
+<step altered> <condition> : <action or sub.use case>
+
+<step altered> <condition> : <action or sub.use case>
+
+--------------------
+
+SUB-VARIATIONS
+
+<put here the sub-variations that will cause eventual bifurcation in the scenario>
+
+<step or variation # > <list of sub-variations>
+
+<step or variation # > <list of sub-variations>
+
+----------------------
+
+RELATED INFORMATION (optional)
+
+Priority: <how critical to your system / organization>
+
+Performance Target: <the amount of time this use case should take>
+
+Frequency: <how often it is expected to happen>
+
+Superordinate Use Case: <optional, name of use case that includes this one>
+
+Subordinate Use Cases: <optional, depending on tools, links to sub.use cases>
+
+Channel to primary actor: <e.g. interactive, static files, database>
+
+Secondary Actors: <list of other systems needed to accomplish use case>
+
+Channel to Secondary Actors: <e.g. interactive, static, file, database, timeout>
+
+----------------------------
+
+OPEN ISSUES (optional)
+
+<list of issues about this use cases awaiting decisions>
+
+---------------------------
+
+SCHEDULE
+
+Due Date: <date or release of deployment>
+
+...any other schedule / staffing information you need...
+
+
+>>>>>>>>> example <<<<<<<<<<
+
+Use Case: 5 Buy Goods
+
+--------------------------------------------------
+
+CHARACTERISTIC INFORMATION
+
+Goal in Context: Buyer issues request directly to our company, expects goods shipped and to be billed.
+
+Scope: Company
+
+Level: Summary
+
+Preconditions: We know Buyer, their address, etc.
+
+Success End Condition: Buyer has goods, we have money for the goods.
+
+Failed End Condition: We have not sent the goods, Buyer has not spent the money.
+
+Primary Actor: Buyer, any agent (or computer) acting for the customer
+
+Trigger: purchase request comes in.
+
+----------------------------------------
+
+MAIN SUCCESS SCENARIO
+
+1. Buyer calls in with a purchase request.
+
+2. Company captures buyer's name, address, requested goods, etc.
+
+3. Company gives buyer information on goods, prices, delivery dates, etc.
+
+4. Buyer signs for order.
+
+5. Company creates order, ships order to buyer.
+
+6. Company ships invoice to buyer.
+
+7. Buyers pays invoice.
+
+----------------------
+
+EXTENSIONS
+
+3a. Company is out of one of the ordered items:
+
+3a1. Renegotiate order.
+
+4a. Buyer pays directly with credit card:
+
+4a1. Take payment by credit card (use case 44)
+
+7a. Buyer returns goods:
+
+7a. Handle returned goods (use case 105)
+
+--------------------
+
+SUB-VARIATIONS
+
+1. Buyer may use
+
+phone in,
+
+fax in,
+
+use web order form,
+
+electronic interchange
+
+7. Buyer may pay by
+
+cash or money order
+
+check
+
+credit card
+
+----------------------
+
+RELATED INFORMATION
+
+Priority: top
+
+Performance Target: 5 minutes for order, 45 days until paid
+
+Frequency: 200/day
+
+Superordinate Use Case: Manage customer relationship (use case 2)
+
+Subordinate Use Cases:
+
+Create order (use case 15)
+
+Take payment by credit card (use case 44)
+
+Handle returned goods (use case 105)
+
+Channel to primary actor: may be phone, file or interactive
+
+Secondary Actors: credit card company, bank, shipping service
+
+Channels to Secondary Actors:
+
+----------------------------
+
+OPEN ISSUES
+
+What happens if we have part of the order?
+
+What happens if credit card is stolen?
+
+---------------------------
+
+SCHEDULE
+
+Due Date: release 1.0

@@ -14,7 +14,9 @@
 
 My problems with doors have become so well known that confusing doors are often called "Norman doors".
 
-Two of the most important characteristics of good design are _discoverability_ and _understanding_. Discoverability: Is it possible to even figure out what actions are possible and where and how to perform them? Understanding: What does it all mean? How is the product supposed to be used? What do all the different controls and settings mean?
+Two of the most important characteristics of good design are _discoverability_ and _understanding_. <br>
+Discoverability: Is it possible to even figure out what actions are possible and where and how to perform them? <br>
+Understanding: What does it all mean? How is the product supposed to be used? What do all the different controls and settings mean?
 
 With complex devices, discoverability and understanding require the aid of manuals or personal instruction. We accept this if the device is indeed complex, but it should be unnecessary for simple things.
 

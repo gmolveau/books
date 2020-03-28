@@ -8,4 +8,5 @@
 * [Things a little bird told me](./things_a_little_bird_told_me.md) - Biz STONE
 * [Maître et serviteur](./maitre_et_serviteur.md) - TOLSTOÏ
 * [Renversez la vapeur!](./renversez_la_vapeur.md) - L. David MARQUET
-* [The Design of Everyday Things ](./the_design_of_everyday_things.md) - Don NORMAN
+* [The Design of Everyday Things](./the_design_of_everyday_things.md) - Don NORMAN
+* [The Pragmatic Programmer from journeyman to master](./the_pragmatic_programmer.md) - Andrew HUNT & David THOMAS
