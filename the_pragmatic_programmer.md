@@ -342,7 +342,7 @@ As your understanding of their needs develops, you'll find area where their expe
 &middot; Why spend your life developing software unless you care about doing it well?
 
 2. **Think! About Your Work** <br>
-&middot; vTurn off the autopilot and take control. Constantly critique and appraise your work.
+&middot; Turn off the autopilot and take control. Constantly critique and appraise your work.
 
 3. **Provide Options, Don't Make Lame Excuses** <br>
 &middot; Instead of excuses, provide options. Don't say it can't be done; explain what can be done.
@@ -408,7 +408,7 @@ As your understanding of their needs develops, you'll find area where their expe
 &middot; Source code control is a time machine for your work—you can go back.
 
 24. **Fix the Problem, Not the Blame** <br>
-&middot; &middot; It doesn't really matter whether the bug is your fault or someone else's—it is still your problem, and it still needs to be fixed.
+&middot; It doesn't really matter whether the bug is your fault or someone else's—it is still your problem, and it still needs to be fixed.
 
 25. **Don't Panic When Debugging** <br>
 &middot; Take a deep breath and THINK! about what could be causing the bug.
@@ -438,14 +438,14 @@ As your understanding of their needs develops, you'll find area where their expe
 &middot; Assertions validate your assumptions. Use them to protect your code from an uncertain world.
 
 34. **Use Exceptions for Exceptional Problems** <br>
-&middot; &middot; Exceptions can suffer from all the readability and maintainability problems of
+&middot; Exceptions can suffer from all the readability and maintainability problems of
 classic spaghetti code. Reserve exceptions for exceptional things.
 
 35. **Finish What You Start** <br>
 &middot; Where possible, the routine or object that allocates a resource should be responsible for deallocating it.
 
 36. **Minimize Coupling Between Modules** <br>
-&middot; &middot; Avoid coupling by writing "shy" code and applying the Law of Demeter.
+&middot; Avoid coupling by writing "shy" code and applying the Law of Demeter.
 
 37. **Configure, Don't Integrate** <br>
 &middot; Implement technology choices for an application as configuration options, not through integration or engineering.
