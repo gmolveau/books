@@ -38,19 +38,25 @@
 
 #### Introduction
 
-> Two of my tests for a book are whether I remember it a moth or two after I have read it, and whether it affects my view of the world - James FALLOWS
+> Two of my tests for a book are whether I remember it a month or two after I have read it, and whether it affects my view of the world
+>
+> -- <cite>James FALLOWS</cite>
 
 An email request means essentially the same thing and has to be processed the same way as a favor asked of you at the coffee machine.
 
-[footnote] An excellent resource in this area is Charles DUHIGG's book, "The Power of Habit".
+- _footnote_ : An excellent resource in this area is Charles DUHIGG's book, "The Power of Habit".
 
 #### Welcome to Getting Things Done
 
 If you're like me, you like getting things done and doing them well, and yet you also want to savor life in ways that seem increasingly elusive, if not downright impossible, if you're working too hard.
 
-> "As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble." - Ralph Waldo Emerson
+> As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
+>
+> -- <cite>Ralph Waldo Emerson</cite>
 
-> "Anxiety is caused by a lack of control, organization, preparation, and action." - David Kekich
+> Anxiety is caused by a lack of control, organization, preparation, and action.
+>
+> -- <cite>David Kekich</cite>
 
 #### Part 1. The art of Getting Things Done
 
@@ -138,7 +144,9 @@ your head.
 2. You must have as few capturing buckets as you can get by with.
 3. You must empty them regularly.
 
-> "Get a purge for your brain. It will do better than for your stomach." - Michel Eyquem de Montaigne
+> Get a purge for your brain. It will do better than for your stomach.
+>
+> -- <cite>Michel Eyquem de Montaigne</cite>
 
 ####### Minimize the Number of Capture Locations
 
@@ -306,7 +314,9 @@ Wouldn't it be great if..." is not a bad way to start thinking about a situation
 
 ####### Brainstorming
 
-> "The best way to get a good idea is to get lots of ideas" - Linus Pauling
+> The best way to get a good idea is to get lots of ideas
+>
+> -- <cite>Linus Pauling</cite>
 
 - Don't judge, challenge, evaluate, or criticize.
 - Go for quantity, not quality.
@@ -922,8 +932,10 @@ The right time and place for the review ? block out two hours early in the frida
 - if action require people at work, you'll still have time to do that
 - it's great to cler your mental decks so you can go into the weekend
 
-> "Every now and then go away and have a little relaxation. To
-remain constantly at work will diminish your judgment. Go some distance away, because work will be in perspective and a lack of harmony is more readily seen." - Leonardo da Vinci
+> Every now and then go away and have a little relaxation. To
+remain constantly at work will diminish your judgment. Go some distance away, because work will be in perspective and a lack of harmony is more readily seen.
+>
+> -- <cite>Leonardo da Vinci</cite>
 
 > Your best thoughts about work won't happen while you're at work.
 
@@ -1005,7 +1017,9 @@ TODO retrouver comment organiser une réunion + ecrire une checklist de reunion 
 
 ####### Intelligent Dumbing Down
 
-> "No matter how big and tough  problem may be, get rid of confusion by taking one little step toward solution. Do something." - George F. Nordenholt
+> "No matter how big and tough  problem may be, get rid of confusion by taking one little step toward solution. Do something."
+>
+> -- <cite>George F. Nordenholt</cite>
 
 Don't allow next-action items to morph back into "stuff"
 
