@@ -10,3 +10,5 @@
 * [Renversez la vapeur!](./renversez_la_vapeur.md) - L. David MARQUET
 * [The Design of Everyday Things](./the_design_of_everyday_things.md) - Don NORMAN
 * [The Pragmatic Programmer from journeyman to master](./the_pragmatic_programmer.md) - Andrew HUNT & David THOMAS
+* [Getting Things Done](./getting_things_done.md) - David ALLEN
+* [L'ecclésiaste - Cohelet](./l_ecclesiaste.md) - Ernest RENAN
