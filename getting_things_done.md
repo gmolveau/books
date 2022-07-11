@@ -34,7 +34,7 @@
 
 ### Notes
 
-![complete GTD process](images/GTD_complete.jpg "Complete GTD process")
+![complete GTD process](files/GTD_complete.jpg "Complete GTD process")
 
 #### Introduction
 
