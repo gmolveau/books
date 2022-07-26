@@ -6,6 +6,14 @@
 
 - 16/05/2022
 
+## Resources
+
+- <https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done>
+
+> In this context, the shortcomings of personal-productivity systems like G.T.D. become clear. They don’t directly address the fundamental problem: the insidiously haphazard way that work unfolds at the organizational level. They only help individuals cope with its effects. A highly optimized implementation of G.T.D. might have helped Mann organize the hundreds of tasks that arrived haphazardly in his in-box daily, but it could do nothing to reduce the quantity of these requests.
+
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) [wayback archive](https://web.archive.org/web/20220514051100/http://hamberg.no/gtd/) [PDF](./files/GTD_in_15_minutes_A_Pragmatic_Guide_to_Getting_Things_Done.pdf)
+
 ## 2015 english updated edition
 
 ### Table of contents
@@ -27,14 +35,11 @@
   - Chapter 12: The Power of the Next-Action Decision
   - Chapter 13: The Power of Outcome Focusing
 
-### other reviews
-
-- https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done
-> In this context, the shortcomings of personal-productivity systems like G.T.D. become clear. They don’t directly address the fundamental problem: the insidiously haphazard way that work unfolds at the organizational level. They only help individuals cope with its effects. A highly optimized implementation of G.T.D. might have helped Mann organize the hundreds of tasks that arrived haphazardly in his in-box daily, but it could do nothing to reduce the quantity of these requests.
-
 ### Notes
 
 ![complete GTD process](files/GTD_complete.jpg "Complete GTD process")
+
++ [PDF version](./files/GTD_complete_drawio.pdf)
 
 #### Introduction
 
