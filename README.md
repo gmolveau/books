@@ -12,3 +12,5 @@
 * [The Pragmatic Programmer from journeyman to master](./the_pragmatic_programmer.md) - Andrew HUNT & David THOMAS
 * [Getting Things Done](./getting_things_done.md) - David ALLEN
 * [L'ecclésiaste - Cohelet](./l_ecclesiaste.md) - Ernest RENAN
+* [SCRUM - un outil convival pour une agilité radicale](./scrum.md) - Claude AUBRY
+* [Kanban - l'approche en flux pour l'entreprise agile](./kanban.md) - Laurent MORISSEAU & Pablo PERNOT

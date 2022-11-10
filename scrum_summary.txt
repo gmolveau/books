@@ -1,0 +1,56 @@
+# Scrum
+
+le PAS agile :
+- impossible de toute specifier en avance
+- gaspillage, fonctionnalités pu voulues au final
+- défiance si une entite ecrit et l'autre produit
+
+quand NE PAS choisir Scrum :
+- culture du contrôle omniprésente
+- continuellement dans l'urgence
+-
+
+pré-conditions :
+
+
+équipe : auto-organisée + attitudes + compétences + responsable du résultat + pluridisciplinaire (max 7)
+    PO [backlog, impact mapping, story mapping, example mapping] : décide le quoi, priorise, fait confiance à l'équipe pour le comment, est disponible, reconnaissant, décide de la mise en prod
+    Scrum Master : maîtrise Scrum, aide l'équipe à maitriser Scrum, facilite auto-organisation et l'efficacité, limite les blocages, peut aider à la réalisation
+    coéquipiers
+
+sprint [objectif]
+features / epics / fonctionnalités
+stories
+taches / tasks
+kanban board : obstacles + fonctionnalités + stories + taches (pk pas saisons)
+backlog : seul canal d'alimentation de l'équipe
+saisons : utile d'avoir un interlude de fin de saison (1 semaine off)
+daily : déceler les blocages, planifier leur résolution
+revue / review
+retrospective
+prelude : remplir le canevas CARE, rappeler roles responsabilités devoirs engagements exigences bilatérales, remplir le backlog initial, faire le hello world sprint (IDE, CI/CD etc)
+planning meeting
+affinage
+spike : technique de réduction de risque timeboxée
+résultat (qui est donné, pas livré)
+mise en service / mise en prod / deploiement : pas forcément synchronisé avec le sprint, viser a reduire le temps pour mettre en prod
+definition de fini / definition of done / dod : fonctionnement + qualite externe + qualite interne
+
+parties prenantes (ceux qui sont intéressés par les résultats)
+    sponsors
+    managers
+    chefs
+    utilisateur final
+
+journée type:
+    PO:
+        - affiner le backlog, ajuster les priorités;
+        - répondre aux questions sur le produit;
+        - définir les conditions d'acceptation;
+        - vérifier qu'un travail est bien terminé;
+
+au fil du temps :
+
+- chaque membre de l'équipe acquiert continuellement de nouvelles compétences par le partage
+- réussites célébrées
+- équipe stable sans mouvement
