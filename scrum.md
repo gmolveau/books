@@ -1022,32 +1022,30 @@ Pattern 6D
 6. «Dérisquée »: est-ce qu'il y a des risques sur la réalisation
 
 TEST «HELLO PREMIÈRE BOUCLE»
-Ce test, réalisé en équipe permet de vérifier l'intégration des briques logicielles, plus l'ensemble de la chaîne de production, y compris l'intégration continue, le gestionnaire de sources et le déploiement.
+Ce test, réalisé en équipe permet de vérifier l'intégration des briques logicielles, + l'ensemble de la chaîne de production, y compris l'intégration continue, le gestionnaire de sources et le déploiement.
 
-Je conseille de lister d'abord toutes les vérifications sur des Post-it®, puis de les associer, dans un deuxième temps, à l'un des niveaux (story, fonctionnalité, mise en service) pour une des trois catégories: fonctionnel, qualité interne, qualité externe.
+Je conseille de lister d'abord toutes les vérifications sur des Post-it, puis de les associer, dans un deuxième temps, à l'un des niveaux (story, fonctionnalité, mise en service) pour une des trois catégories: fonctionnel, qualité interne, qualité externe.
 
-Les réflexions devraient notamment porter sur le niveau où placer les exigences
-non fonctionnelles ou transverses (utilisabilité, fiabilité, performance, sécurité, etc.).
+Les réflexions devraient notamment porter sur le niveau où placer les exigences non fonctionnelles ou transverses (utilisabilité, fiabilité, performance, sécurité, etc.).
 
-Retrospective de prelude : suivante.
+Retrospective de prélude : suivante.
 L'objectif est de réfléchir ensemble à la façon dont ce prélude s'est déroulé dans le but d'améliorer le prochain prélude, car oui il est probable que l'équipe aura l'occasion d'en refaire.
 
 Un rite Scrum est un exercice collectif pendant lequel les coéquipiers coopèrent pour avoir de la visibilité sur le résultat que l'équipe va donner et réfléchissent, à partir ce qui est rendu visible, pour l'améliorer.
 
 Dans l'équipe, le suivi du travail n'est pas l'apanage d'un seul, mais l'affaire de tous: chacun rend visible aux autres le travail qu'il fait.
 
-Les rites apportent de la confiance à l'équipe. On a toujours besoin de se donner un objectif et en déduire des travaux à faire (planification). On a toujours besoin de se synchroniser (mêlée). On a toujours besoin
-de réfléchir et améliorer le résultat (revue) et la façon de travailler (rétrospective). La ritualisation rend plus facile la tenue de ces activités.
+Les rites apportent de la confiance à l'équipe. On a toujours besoin de se donner un objectif et en déduire des travaux à faire (planification). On a toujours besoin de se synchroniser (mêlée). On a toujours besoin de réfléchir et améliorer le résultat (revue) et la façon de travailler (rétrospective). La ritualisation rend plus facile la tenue de ces activités.
 
 Ces moments de rencontre ne sont pas des réunions au sens usuel. Il n'y a pas d'ordre du jour ni de compte-rendu. Ce sont des prétextes à développer l'intelligence collective.
 
 Une story est prête si elle est suffisamment petite et bien comprise par l'équipe, qui se sent alors capable de la finir dans un sprint.
 
-le travail du sprint appartient à l'équipe, qui décide ellemême comment elle vet s'organiser.
+Le travail du sprint appartient à l'équipe, qui décide elle même comment elle veut s'organiser.
 
 C'est souvent à cause des estimations que la planification dure trop longtemps. Elles ne devraient pas être faites pendant la planification, mais lors de l'affinage.
 
-Il peut arriver que l'équipe décide d'avoir une durée différente. Cela a pu être anticipé dans le cas de vacances pendant le sprint (par exemple à Noël).
+Il peut arriver que l'équipe décide d'avoir une durée de sprint différente. Cela a pu être anticipé dans le cas de vacances pendant le sprint (par exemple à Noël).
 
 Le fourmillement (swarming) consiste en une division temporaire de l'équipe.
 Le sous-groupe créé va s'agglutiner sur une story le temps de la finir.
@@ -1071,21 +1069,20 @@ L'objectif du sprint est public pour les parties prenantes. Il est d'ailleurs so
 
 L'équipe s'engage à produire un résultat correspondant à l'objectif avec le niveau de qualité requis dans la définition de fini. Elle s'engage également à prévenir le Product Owner dès que l'objectif est remis en question, ou s'il peut être augmenté.
 
-Si ça prend trop de temps, est-ce que le Scrum Master peut affecter le travail aux personnes?
-Non, l'équipe ne serait pas engagée.
+Si la planification prend trop de temps, est-ce que le Scrum Master peut affecter le travail aux personnes? Non, l'équipe ne serait pas engagée.
 
 En résumé : La planification du sprint est le rite au tout début du sprint servant à déterminer l'objectif et à produire le plan de sprint. Pour la réussir, il convient de ne pas la voir uniquement comme une séance de planification, mais aussi comme un exercice collectif pendant lequel l'équipe apprend à s'auto-organiser et à partager la connaissance sur le produit et sur la solution pour le développer.
 
 15)
 
-les obstacles sont identifiés et les rendez-vous pris pour les éliminer; les points de synchronisation de la journée sont définis.
+Pendant le daily, les obstacles sont identifiés et les rendez-vous pris pour les éliminer; les points de synchronisation de la journée sont définis.
 
 La mêlée s'appelle stand up meeting dans Extreme Programming, ce qui fait bien comprendre qu'on reste debout, pour rester focalisé.
 
-L'équipe put s'attendre à subir deux formes d'aléas:
+L'équipe peut s'attendre à subir deux formes d'aléas:
 
 1. ceux qui sont inhérents à l'exécution du sprint par l'équipe, appelés des obstacles;
-2. ceux qui sont dus à des changements exogènes, car la bordure qui protège l'équipe pendant n sprint est perméable.
+2. ceux qui sont dus à des changements exogènes, car la bordure qui protège l'équipe pendant un sprint est perméable.
 
 Rendre les obstacles visibles dans un tableau.
 
@@ -1095,13 +1092,12 @@ La transparence pousse à mettre le travail ajouté sur le tableau de sprint. Le
 
 Cette story sans contenu servira de place réservée pour les urgences à venir (c'est prévoir l'imprévu!)
 
-il arrive que des tâches soient découvertes pendant le sprint: en travaillant sur une story, on s'aperçoit qu'un travail important, ignoré jusque-là, devient nécessaire.
-C'est la manifestation de la notion d'émergence.
+Il arrive que des tâches soient découvertes pendant le sprint: en travaillant sur une story, on s'aperçoit qu'un travail important, ignoré jusque-là, devient nécessaire. C'est la manifestation de la notion d'émergence.
 
 La décision de déclarer une story fine est - en principe - prise par le PO. Mais si l'accord sur les choses à vérifier s'est fait avec l'équipe, et que la confiance est là, il peut déléguer cette responsabilité.
 
-Fréquence: chaque jour du sprint.
-Durée: moins d'un quart d'heure.
+- Fréquence: chaque jour du sprint.
+- Durée: moins d'un quart d'heure.
 
 trois questions simples, au sujet de ce qui a été fait, de ce qui va être fait et des obstacles rencontrés.
 
@@ -1109,7 +1105,7 @@ La mesure du temps passé sur une tâche n'est pas utile avec Scrum, pas plus qu
 
 Toute l'équipe participe à la mêlée. Une réserve possible concerne le Product Owner. Sa présence n'est pas obligatoire tous les jours. Le minimum est qu'il soit là au moins deux fois par semaine, et si possible tout le temps, c'est mieux.
 
-Daily n'est pas une réunion pour faire un compte rendu au Scrum Master (ni au PO ni à quiconque).
+Le daily n'est pas une réunion pour faire un compte rendu au Scrum Master (ni au PO ni à quiconque).
 
 Pour éviter de tomber dans cette routine, le Scrum Master (ou un membre de l'équipe) propose des variations dans le déroulement des mêlées:
 
@@ -1123,20 +1119,20 @@ on démarre par la projection de l'objectif de sprint et l'objectif d'améliorat
 
 La mêlée quotidienne permet de définir les moments de synchronisation au sein de l'équipe et avec les parties prenantes.
 
-développer la coopération dans l'équipe par une réponse collective et synchronisée aux aléas quotidiens.
+Le daily permet de développer la coopération dans l'équipe par une réponse collective et synchronisée aux aléas quotidiens.
 
 Rappelons que l'objectif du sprint dont il est question contient deux parties : l'objectif de résultat défini lors de la planification du sprint; l'objectif d'amélioration (kaizen) identifié lors de la rétrospective
 
 Il est de la responsabilité du Scrum Master de classer les obstacles par priorité et de faire en sorte qu'ils soient éliminés au plus vite.
 
-L'équipe se réunit. Chacun s'exprime à tour de rôle en disant ce qu'il a fait, ce qu'ilva faire et ce qui l'empêche d'avancer vers l'objectif du sprint. En fonction de ces informations, l'équipe s'adapte à la situation pour éliminer les obstacles et atteindre l'objectif du sprint.
+L'équipe se réunit. Chacun s'exprime à tour de rôle en disant ce qu'il a fait, ce qu'il va faire et ce qui l'empêche d'avancer vers l'objectif du sprint. En fonction de ces informations, l'équipe s'adapte à la situation pour éliminer les obstacles et atteindre l'objectif du sprint.
 
-Quand un obstacle est identifié en séance, il est possible qu'un des coéquipiers connaisse déjà un moyen de l'éliminer. I le donne immédiatement.
+Quand un obstacle est identifié en séance, il est possible qu'un des coéquipiers connaisse déjà un moyen de l'éliminer. Il le donne immédiatement.
 
-Burnup/burndown : Ces indicateurs sont destinés uniquement à l'équipe.Ils peuvent sinon avoir des effets de bord, comme leur utilisation par des parties prenantes pour mettre la pression.
+Burnup/burndown : Ces indicateurs sont destinés uniquement à l'équipe. Ils peuvent sinon avoir des effets de bord, comme leur utilisation par des parties prenantes pour mettre la pression.
 
 Maul = daily orienté story
-Dans cette approche, les trois questions ne sont pas pour chaque coéquipier, mais pour chaque story en course.
+Dans cette approche Maul, les trois questions ne sont pas pour chaque coéquipier, mais pour chaque story en course.
 
 En résumé : La mêlée est le rite de partage quotidien entre les membres de l'équipe permettant d'organiser la journée et de vérifier l'alignement sur l'objectif du sprint. C'est une pratique renforçant l'auto-organisation qui a prouvé son efficacité et qui ne coûte pas cher à mettre en place. Il ne s'agit pas simplement de rester debout et de répondre aux trois questions. L'objectif est de mettre l'équipe en situation de réussir le sprint. Pour cela, les obstacles sont identifiés et les rendez-vous pris pour les éliminer; les points de synchronisation de la journée sont définis.
 
@@ -1147,11 +1143,11 @@ L'affinage consiste à maintenir un backlog prêt, pour augmenter les chances de
 Le Product Owner qui est le principal affineur coopère avec l'équipe : une grande partie de l'affinage a lieu lors de séances de travail en commun
 Il est souhaitable que tous les coéquipiers participent à cette activité. Des parties prenantes sont invitées selon le besoin. Des experts fonctionnels sont invités quand leur domaine est abordé.
 
-Il y a deux possibilités pour l'organisation des séances d'affinage: sur demande
+Il y a deux possibilités pour l'organisation des séances d'affinage: sur demande ou ritualisé,
 
 - Le Scrum Master surveille le niveau des stories prêtes, et s'il constate qu'il y a un risque de disette, il déclenche un affinage de backlog ; à un rythme régulier - C'est le plus facile, en particulier quand on débute et cela revient à faire de l'affinage un rite.
 
-Grace a l’affinage, l'équipe a une meilleure connaissance de ce qui est prévu dans les sprints futurs.
+Grace à l’affinage, l'équipe a une meilleure connaissance de ce qui est prévu dans les sprints futurs.
 
 Le Product Owner est rassuré sur la capacité de l'équipe à développer les éléments qui ont été affinés ensemble. Les parties prenantes disposent, en particulier avec le kanban des fonctionnalités, d'une visibilité sur ce qui va être développé dans la procaine période. La planification du prochain sprint sera plus facile et plus courte.
 L'élaboration d'un plan de saison est grandement facilitée.
@@ -1166,7 +1162,7 @@ L'acronyme ADAPTER correspond à une sequence d'affinage :
 6. Estimer les éléments approvisionnés ou décomposés;
 7. Réordonner le bac d'affinage.
 
-La confiration qu'une story est prête est obtenue quand l'équipe estime que les risques de ne pas la finir dans le sprint sont réduits. Elle s'appuie sur la définition de prêt.
+La confirmation qu'une story est prête est obtenue quand l'équipe estime que les risques de ne pas la finir dans le sprint sont réduits. Elle s'appuie sur la définition de prêt.
 
 > Behavior Driven Development <https://wikiagile.cesi.fr/index.php?title=Qu%27y_a-t%27il_dans_une_histoire_(une_Story)%3F>.
 
@@ -1203,22 +1199,22 @@ En résumé: L'affinage est le rite qui consiste à maintenir un backlog prêt, 
 
 17)
 
-Avant d'assister à des revues de sprint, j'ai participé à de nombreuses revues de projet. Elles portaient sur des documents, qui devaient être envoyés plusieurs jours avant la réunion afin que les participants aient le temps de les lire. La réunion ellemême pouvait dépasser la journée.
+Avant d'assister à des revues de sprint, j'ai participé à de nombreuses revues de projet. Elles portaient sur des documents, qui devaient être envoyés plusieurs jours avant la réunion afin que les participants aient le temps de les lire. La réunion elle même pouvait dépasser la journée.
 
 En accord avec le Manifeste agile, la démonstration d'un résultat qui fonctionne est un moment essentiel dans la boule de feedback : elle permet d'obtenir une visibilité qui enclenche la réflexion et l'amélioration.
 
 Toute l'équipe Scrum participe à la revue. Le Product Owner en est l'animateur principal. Toutes les parties prenantes sont conviées et leur venue vivement encouragée.
 
 Le résultat du sprint donné (et démontré) lors de la revue est essentiel pour améliorer la confiance entre l'équipe et les parties prenantes.
-L'équipe est satisfaite d'avoir montré qu'elle a produit un résultat de qualité. Les parties prenantes sont rassurées d'avoir vu des chose fonctionner et d'avoir u des conversations sur le produit.
+L'équipe est satisfaite d'avoir montré qu'elle a produit un résultat de qualité. Les parties prenantes sont rassurées d'avoir vu des choses fonctionner et d'avoir eu des conversations sur le produit.
 
 Ces mesures ajoutées à celles des sprints précédents constituent une base historique qui servira à mieux prévoir.
 
 La démonstration s'effectue sur un environnement dédié, le plus proche possible de l'environnement de production (cela peut être précisé dans la définition de fini)
 
-La préparation de la revue consiste d'abord à imaginer un scénario d'enchainement des différentes stories qui seront montrées, avec des jeux de données associés. L'équipe se met d'accord sur le déroulement
+La préparation de la revue consiste d'abord à imaginer un scénario d'enchainement des différentes stories qui seront montrées, avec des jeux de données associés. L'équipe se met d'accord sur le déroulement.
 
-Après leur examen, l'équipe put estimer qu'un résumé de cette partie sera utile lors de la présentation aux parties prenantes.
+Après leur examen, l'équipe peut estimer qu'un résumé de cette partie sera utile lors de la présentation aux parties prenantes.
 
 S'il n'est pas atteint, la discussion sur l'impact pour la saison aura lieu à la fin, et la recherche des axes d'amélioration sera conduite lors de la rétrospective.
 
@@ -1232,16 +1228,15 @@ Cette mesure de la vélocité sert à connaître la capacité de l'équipe, util
 
 La variante revue en trois parties :
 
-- La revue interne : demo repetition + demo stories investissement
+- La revue interne : demo répétition + demo stories investissement
 - La revue externe est consacrée à la démo et a feedback.
-- La revue de pilotage se déroule avec les managers impliqués dans le pilotage.
-    Elle porte sur l'avancement avec les indicateurs que le PO et le SM ont eu le temps de préparer après la revue externe. C'est le bon moment pour prendre, si nécessaire, une décision sur la procaine mise en service.
+- La revue de pilotage se déroule avec les managers impliqués dans le pilotage : elle porte sur l'avancement avec les indicateurs que le PO et le SM ont eu le temps de préparer après la revue externe. C'est le bon moment pour prendre, si nécessaire, une décision sur la prochaine mise en service.
 
 En résumé : La revue sert à collecter le feedback des parties prenantes et prendre une décision sur le résultat obtenu en fin de sprint. Ce rite est l'occasion de partager les réalisations de l'équipe avec le reste de l'organisation. La visibilité apportée et le feedback reçu permettent d'augmenter les chances que le produit soit un succès.
 
-18)
+18) retro
 
-Dans de grandes entreprises, à la fin d'un projet, le service méthodes ou son équivalent rappelle au chef de projet qu'il faudrait faire le bilan.
+Dans de grandes entreprises, à la fin d'un projet, le service méthodes ou son équivalent rappelle au chef de projet qu'il faudrait faire le bilan. TODO finir recopier suite
 
 Toute l'équipe Scrum participe à la rétro. On n'oubliera pas que le Product Owner fait partie de l'équipe.
 
@@ -1251,7 +1246,7 @@ La rétrospective se passe dans un lieu où les coéquipiers sont en confiance p
 
 Le résultat essentiel de la rétrospective est qu'elle contribue à avoir une équipe plus soudée, un collectif plus huilé. On a mis ensemble en évidence des aspects positifs dans le travail, on a formulé les choses qui n'allaient pas, cela améliore l'équipe.
 
-C'est important de montrer que des chose ont changé pour motiver l'équipe à proposer de nouvelles idées de changement.
+C'est important de montrer que des choses ont changé pour motiver l'équipe à proposer de nouvelles idées de changement.
 
 Faire sauter la retro c'est faire sauter la dernière chance d'éviter le pire. Un oeil extérieur peut justement permettre de faciliter l'identification collective des problèmes majeurs de l'équipe.
 
@@ -1321,16 +1316,15 @@ En résumé : La rétrospective est le rite d'amélioration collective qui s'app
 
 L'apport essentiel des pratiques de dev dans ce domaine vient d'Extreme Programming (XP).
 
-> 3. Un manifeste publié en 2009, pour élever le niveau (de la qualité du logiciel): <http://manifesto>.
-softwarecraftsmanship.org/#/fr-fr.
+> 3. Un manifeste publié en 2009, pour élever le niveau (de la qualité du logiciel): <http://manifesto.softwarecraftsmanship.org/#/fr-fr.>
 
-Si l'intégration ne passe pas, l'équipe s'arrête pour identifier rapidement le problème à l'origine de l'erreur et relancer la fabrication: il ne faut pas laisser une intégration « cassée», pour éviter de propager des erreurs.
+Si l'intégration continue ne passe pas, l'équipe s'arrête pour identifier rapidement le problème à l'origine de l'erreur et relancer le build: il ne faut pas laisser une intégration continue « cassée», pour éviter de propager des erreurs. (cf theorie de la fenêtre cassée)
 
 Il est préférable que l'intégration continue soit maîtrisée avant le premier sprint.
 C'est ce que nous avons vu dans la partie Prélude avec le Hello première boucle.
 Si l'équipe n'en dispose pas et décide de la mettre en place pendant une saison, l'installation du serveur et du logiciel constitue une story d'investissement.
 
-La pratique du développement piloté par les tests va plus loin : il s'agit d'écrire les tests avant d'écrire le code et de profiter de la présence de tests automatiques pour 1 améliorer le code en toute sécurité
+La pratique du développement piloté par les tests va plus loin : il s'agit d'écrire les tests avant d'écrire le code et de profiter de la présence de tests automatiques pour améliorer le code en toute sécurité.
 
 Programmation en binome
 
@@ -1338,20 +1332,20 @@ Est-ce qu'on peut ajouter le rôle d'architecte dans une équipe Scrum ? Le rôl
 
 Le document d'architecture, s'il existe, est mis à jour à chaque sprint et fait l'objet d'une entrée dans la définition de fini. Mais le point important est que l'architecture soit bonne, et ce n'est pas un document qui va permettre de le savoir. C'est en écrivant du code qu'on prouve l'architecture, pas avec un document.
 
-Mener des travaux d'étude ou d'exploration technique pendant un sprint. C'est ce qu'on appelle un spike. Le besoin est identifié lors de l'affinage. Le spike est alors ajouté au backlog et priorisé.
+Mener des travaux d'étude ou d'exploration technique pendant un sprint, c'est ce qu'on appelle un spike. Le besoin est identifié lors de l'affinage. Le spike est alors ajouté au backlog et priorisé.
 À la fin du sprint incluant le spike, on devrait avoir défini une solution, et être capable de rendre prête la story objet de l'étude (c'est le S du pattern décompose).
 
-Avec Scrum, il n'y a pas de rôle explicite de tester. pour des raisons de quantité de travail et de compétences, un Product Owner n'est généralement pas en situation de s'occuper seul de l'acceptation, il deviendrat vite le goulet d'étranglement; les confier aux parties prenantes, ce serait avoir une deuxième équipe!
+Avec Scrum, il n'y a pas de rôle explicite de testeur. Pour des raisons de quantité de travail et de compétences, un Product Owner n'est généralement pas en situation de s'occuper seul de l'acceptation, il deviendrait vite le goulet d'étranglement; et les confier aux parties prenantes, ce serait avoir une deuxième équipe!
 
-La différence entre une condition et un test d'acceptation, c'est que le test porte des valeurs, qui constituent un exemple. C'est pour cela qu'on parle de spécification par l'exemple ave l'ensemble story plus tests d'acceptation.
+La différence entre une condition et un test d'acceptation, c'est que le test porte des valeurs, qui constituent un exemple. C'est pour cela qu'on parle de spécification par l'exemple avec l'ensemble story + tests d'acceptation.
 
 Cependant le BDD est avant tout une démarche visant à utiliser le langage du métier pour favoriser la coopération entre le PO et les développeurs.
 
 Un test d'acceptation est vérifié dès que possible. Lorsque tout est vérifié, la story est acceptée et déclarée fine. Pour éviter les régressions pendant et après le sprint, les tests doivent être rejoués, d'où l'importance de l'automatisation.
 
-Le développement de la story est mené rapidement pendant le sprint; il dure d'un à trois ours à plusieurs coéquipiers.
+Le développement de la story est mené rapidement pendant le sprint; il dure d'un à trois jours à plusieurs coéquipiers.
 
-On peut continuer Scrum en y appliquant les limites de Kanban.
+> On peut continuer Scrum en y appliquant les limites de Kanban.
 
 En principe, si les conditions d'acceptation ont été vérifiées, un bug critique ou majeur ne peut être dû qu'à une régression et nécessite une correction immédiate, sans oublier d'analyser ses causes. Sans passer par le backlog.
 Le corollaire est que si on découvre qu'il manque une condition d'acceptation à une story, c'est une nouvelle story et non pas un bug. Ne devraient donc être présents dans un backlog que des bugs mineurs, qui ne nécessitent pas d'ajouter une conditon d'acceptation.
@@ -1359,13 +1353,13 @@ Une correction de bug est une story : elle est affinée et ordonnée. C'est au P
 
 Le mob programming utilise un pattern particulier du pair programming dénommé strong-style pairing, que son auteur Falco Llewelyn définit ainsi: Pour qu'une idée passe de votre tête à l'ordinateur, elle DOIT passer par les mains de quelqu'un d'autre.
 
-En résumé : L'usage de pratiques d'ingénierie est obligatoire pour une équipe Scrum qui développe un produit logiciel. L'intégration continue, le développement piloté par les tests et la programmation en binôme sont les capacités qui permettent d'obtenir un résultat de qualité. Avec Scrum, l'équipe fait de l'architecture évolutive et de la conception émergente. L'objectif de ces pratiques est de limiter le nombre de bugs et l'accumulation de dette technique. Le mob programming est la quintessence de la coopération.
+En résumé : L'usage de pratiques d'ingénierie est obligatoire pour une équipe Scrum qui développe un produit logiciel. L'intégration continue, le développement piloté par les tests et la programmation en binôme sont des capacités qui permettent d'obtenir un résultat de qualité. Avec Scrum, l'équipe fait de l'architecture évolutive et de la conception émergente. L'objectif de ces pratiques est de limiter le nombre de bugs et l'accumulation de dette technique. Le mob programming est la quintessence de la coopération.
 
 La décision de déployer est prise par l'équipe. Comme on cherche à apprendre le plus vite possible, on se mettra en situation de pouvoir déployer au plus vite.
 
-Mettre en service concerne le produit, c'est don au Product Owner qu'incombe la décision (il consulte l'équipe et les parties prenantes pour décider). Plus on devient agile, plus on peut mettre en service souvent.
+Mettre en service concerne le produit, c'est donc au Product Owner qu'incombe la décision (il consulte l'équipe et les parties prenantes pour décider). Plus on devient agile, plus on peut mettre en service souvent.
 
-La façon agile de planifier, que nous avons appliquée pour le sprint, reverse le triangle périmètre-coût-délai classique, en considérant que:
+La façon agile de planifier, que nous avons appliquée pour le sprint, renverse le triangle périmètre-coût-délai classique, en considérant que:
 
 - la date, le coût et la qualité sont définis à l'avance et non négociables;
 - le périmètre (scope) constitue la variable d'ajustement.
@@ -1374,7 +1368,7 @@ La façon agile de planifier, que nous avons appliquée pour le sprint, reverse 
 
 Le Product Owner est responsable de la consolidation du plan et de sa communication, entre les activités faites en commun. Il l'actualise à chaque sprint et le présente à la revue.
 
-20. 3 COMMENT PLANIFIER UNE SAISON ?
+20.3 COMMENT PLANIFIER UNE SAISON ?
 Planifier la saison consiste à:
 
 - identifier la quantité de travail pour la durée de la saison;
@@ -1385,74 +1379,74 @@ Planifier la saison consiste à:
   - En partant de la story prête la plus prioritaire et allant jusqu'à la moins prioritaire du bac d'affinage, on applique la capacité pour définir le contenu de chaque sprint;
 - ajouter les incertitudes;
 
-le problème avec un plan basé sur les stories est qu'il risque de ne pas être très éclairant pour les parties prenantes. Une alternative est de planifier au niveau des fonctionnalités. Les fonctionnalités leur parlent plus.
+Le problème avec un plan basé sur les stories est qu'il risque de ne pas être très éclairant pour les parties prenantes. Une alternative est de planifier au niveau des fonctionnalités. Les fonctionnalités leur parlent plus.
 
 Déroulement du planning poker
 
 - Le Product Owner présente la story.
 - Les membres de l'équipe posent des questions pour bien la comprendre et débattent brièvement.
-- Tous les participants présentent en même temps la carte qu'ils ont choisie pour l'estimation (max 13)
+- Tous les participants présentent en même temps la carte qu'ils ont choisie pour l'estimation (score carte max 13)
 - Le groupe discute des différences éventuelles, en commençant par les extrêmes.
-- On fait un deuxième tour de vote pour arriver à un accord par consentement sur l' estimation pour la story, puis on passe à la suivante.
+- On fait un deuxième tour de vote pour arriver à un accord par consentement sur l'estimation pour la story, puis on passe à la suivante.
 
 La séance initiale de planning poker prend du temps, jusqu'à une demi-journée.
-On peut accélérer le movement en pratiquant l'estimation par similitude (appelée aussi Extreme Quotation) : on fait des rangées pour chaque valeur possible d'une estimation.
+On peut accélérer le mouvement en pratiquant l'estimation par similitude (appelée aussi Extreme Quotation) : on fait des rangées pour chaque valeur possible d'une estimation.
 
-plusieurs possibilités pour mesurer la vélocité d'un sprint:
+Plusieurs possibilités pour mesurer la vélocité d'un sprint:
 
 - en nombre de stories ;
-- En nombre de fonctionnalités...
+- en nombre de fonctionnalités ;
+- ...
 
-Une condition supplémentaire porte sur le Product Owner, qui deva effectivement jour son rôle, à savoir définir les fonctionnalités minimales apportant de la valeur. Il est possible de définir un budget par fonctionnalité, et de le réaffecter entre tonctionnalités tout en restant dans l'enveloppe globale, c'est le reflet de l'ouverture au changement de l'agilité.
+Une condition supplémentaire porte sur le Product Owner, qui devra effectivement jouer son rôle, à savoir définir les fonctionnalités minimales apportant de la valeur. Il est possible de définir un budget par fonctionnalité, et de le réaffecter entre fonctionnalités tout en restant dans l'enveloppe globale, c'est le reflet de l'ouverture au changement de l'agilité.
 
 Le premier résultat est une équipe avec une meilleure connaissance de ce qui l'attend dans les sprints qui viennent. Les parties prenantes trouveront avec le plan des informations qui les intéressent sur les résultats attendus dans le futur. La transparence est renforcée.
 
-Prévoir sans estimer, c'est une notion qu'on rattache au movement NoEstimates.
+Prévoir sans estimer, c'est une notion qu'on rattache au mouvement NoEstimates.
 
 > 1. ScrumBan, l'article de référence de Corey Ladas: <https://www.agilealliance.org/scrumban/>.
-> 2. Un minilivre d'Henrik Kniberg et Mattias Skarin, traduit en français: <https://www.infoq.com/fr/minibooks/>
-kanban-scrum-minibook/.
+> 2. Un minilivre d'Henrik Kniberg et Mattias Skarin, traduit en français: <https://www.infoq.com/fr/minibooks/kanban-scrum-minibook/>.
 
 En résumé : La planification de saison permet de prendre des décisions sur le produit. C'est l'équipe elle-même qui estime et planifie. Pour cela, il lui faut identifier la quantité de travail à faire, mesurer la vélocité pour en déduire la capacité prévue, projeter sur le reste à faire et ajouter la marge d'incertitude. I est important de réfléchir à la précision souhaitée pour éviter de gaspiller du temps à faire des estimations.
 
-- Rendre une équipe Scrum déjà expérimentée encore plus agile
-  - Coéquipier
-    - finir les stories plus vite pendant le sprint en réduisant le multitâche
-      - fourmillement
-      - limiter les tâches
-      - visualiser et limiter les urgences
-    - commencer le développement avec des stories moins grosses et mieux comprises
-      - affinage du backlog
-      - définition de prêt
-  - Product Owner
-    - injecter des changements à un rythme plus rapide que le sprint
-      - limiter les stories en course
-    - éviter d'être un goulet d'étranglement
-      - limite basse sur les stories prêtes
-    - mieux planifier à moyen terme
-      - plan de saison
-      - bac à sable et bac à glace
-      - kanban de fonctionnalités pour visualiser le worklfow
-      - limiter les fonctionnalités
+Comment rendre une équipe Scrum déjà expérimentée encore plus agile ?
+
+- Coéquipiers
+  - finir les stories plus vite pendant le sprint en réduisant le multitâche
+    - fourmillement
+    - limiter les tâches
+    - visualiser et limiter les urgences
+  - commencer le développement avec des stories moins grosses et mieux comprises
+    - affinage du backlog
+    - définition de prêt
+- Product Owner
+  - injecter des changements à un rythme plus rapide que le sprint
+    - limiter les stories en course
+  - éviter d'être un goulet d'étranglement
+    - limite basse sur les stories prêtes
+  - mieux planifier à moyen terme
+    - plan de saison
+    - bac à sable et bac à glace
+    - kanban de fonctionnalités pour visualiser le worklfow
+    - limiter les fonctionnalités
 
 Brève introduction à Kanban
-Kanban est une méthode d'amélioration - qui se présente comme du changement progressif et en douceur - dont les grands principes sont:
+Kanban est une méthode d'amélioration - qui se présente comme du changement progressif et en douceur - dont les 3 grands principes sont:
 
 - commencer là où on en est;
 - s'engager à changer de manière incrémentale;
 - respecter initialement le processus actuel, les rôles et les responsabilités.
 
-Dans notre approche pour fluidifier, nous partirons donc de Scrum, avec ses sprints,
-ses rites, ses rôles et son backlog.
+Dans notre approche pour fluidifier, nous partirons donc de Scrum, avec ses sprints, ses rites, ses rôles et son backlog.
 
-Kanban propose six pratiques:
+Kanban propose 6 pratiques:
 
-1. visualiser le workflow:
+1. visualiser le workflow;
 2. limiter le travail en cours;
 3. mesurer et gérer le flux de travail ;
 4. rendre explicites les règles de gestion du processus;
 5. implémenter des boucles de feedback ;
-6. s'améliorer de manière collaborative
+6. s'améliorer de manière collaborative.
 
 L'ordre de présentation correspond à la profondeur d'application de Kanban.
 
@@ -1460,13 +1454,13 @@ L'analogie fréquemment utilisée est celle du trafic routier, dans lequel on li
 
 Concrètement, la limite est associée à une colonne. Une fois le nombre d'éléments atteint, cela bloque une nouvelle entrée, obligeant à se poser des questions sur quoi faire, donc à coopérer.
 
-I existe une autre limite, moins connue, la limite basse, qui déclenche un réapprovisionnement. Elle apporte une alternative subtile au rythme Scrum.
+Il existe une autre limite, moins connue, la limite basse, qui déclenche un réapprovisionnement. Elle apporte une alternative subtile au rythme Scrum.
 
 LIMITER LES TRAVAUX DU SPRINT
 Limite sur le nombre de tâches en cours
 Visualiser et limiter les urgences
 
-Il arrive que Scrum s'avère trop difficile à suivre sur l'aspect « l'équipe n'est pas perturbée pendant le sprint».
+Il arrive que Scrum s'avère trop difficile à suivre sur l'aspect « l'équipe n'est pas perturbée pendant le sprint ».
 
 On ajoute une ligne pour les urgences dans le tableau des tâches, en limitant explicitement le nombre de ces tâches urgentes.
 
@@ -1474,13 +1468,11 @@ L'équipe doit aussi se mettre d'accord sur la façon de prendre en compte une u
 
 On ne remet pas en question la notion d'objectif du sprint, c'est fondamental pour l'engagement.
 
-la planification échelonnée rend plus difficile de définir l'objectif du sprint et de s'y tenir; l'ajout de stories pendant le sprint nécessite une bonne maîtrise de la définition de prêt;
-cette facilité peut pousser le Product Owner à demander encore plus de changements pendant le sprint.
+La planification échelonnée rend plus difficile de définir l'objectif du sprint et de s'y tenir; l'ajout de stories pendant le sprint nécessite une bonne maîtrise de la définition de prêt; cette facilité peut pousser le Product Owner à demander encore plus de changements pendant le sprint.
 
 Le bac à sable étant destiné à recueillir les demandes de tout le monde, il n'est pas recommandé de le limiter, ce serait une entrave à l'expression des parties prenantes.
 
 Limites sur les stories prêtes
-
 Une limite haute permet de limiter le nombre de stories prêtes. Une limite basse sur les stories prêtes permet de déclencher une séance d'affinage pour réapprovisionnement.
 
 Il est souhaitable de mener les réflexions sur les limites selon cette hiérarchie: fonctionnalité, puis story puis tâche.
@@ -1490,15 +1482,15 @@ Le temps de traversée est la durée que met un élément à parcourir la chaîn
 
 La mesure à faire est celle de la durée entre le moment où un élément devient prêt et celui où il est fini.
 
-Bones raisons d'arrêter Scrum pour Kanban
+Bonnes raisons d'arrêter Scrum pour Kanban
 
 - Trop d'urgences pour Scrum
-    Comme nous l'avons dit dans le premier chapitre, Scrum n'est pas adapté à toutes les situations, en particulier aux changements continuels.
+  - Comme nous l'avons dit dans le premier chapitre, Scrum n'est pas adapté à toutes les situations, en particulier aux changements continuels.
 - Plus besoin du rythme du sprint
-Une équipe Scrum qui a mis en place avec succès l'application de Kanban telle que nous venons de la présenter peut s'interroger sur l'arrêt des sprints.
-Elle maîtrise les limites et gère bien le flux de stories.
-Elle se sent suffisamment mûre pour désynchroniser la planification, la revue et la rétrospective, et peut les faire sur demande, en cas de besoin, plutôt que sur le rythme du sprint.
-Quand on arrête les sprints, on peut dire que ce n'est plus du Scrum. L'essentiel est de rester agile.
+  - Une équipe Scrum qui a mis en place avec succès l'application de Kanban telle que nous venons de la présenter peut s'interroger sur l'arrêt des sprints.
+  - Elle maîtrise les limites et gère bien le flux de stories.
+  - Elle se sent suffisamment mûre pour désynchroniser la planification, la revue et la rétrospective, et peut les faire sur demande, en cas de besoin, plutôt que sur le rythme du sprint.
+  - Quand on arrête les sprints, on peut dire que ce n'est plus du Scrum. L'essentiel est de rester agile.
 
 C'est plus facile d'arriver à une limite de 1 pour les fonctionnalités. Se focaliser sur une seule fonctionnalité, la finir et la mettre en service immédiatement réduit le temps de cycle et donne de la valeur plus vite aux utilisateurs.
 
@@ -1514,14 +1506,14 @@ Si toutefois le produit est suffisamment gros, il est parfois possible d'identif
 
 Scrum de scrums
 
-s'il fallait choisir un framework agile, ce serait LeSS'. Car ce que propose LeSS, c'est exactement ga, du Scrum plus quelques patterns pour ce contexte de grande taille
+s'il fallait choisir un framework agile, ce serait LeSS. Car ce que propose LeSS, c'est exactement cela, du Scrum plus quelques patterns pour ce contexte de grande taille.
 Le point clé de cette approche fractale est de conserver les rôles Scrum sans ajouter de nouveau rôle.
 
-> 1. LeSS pour Large-Scale Scrum de Craig Larman et Bas Vodde, traduit en français: <https://wikiagile.cesi./index.php?title=Cat%C3%A9gorie:Portail_LeSS>.
+> 1. LeSS pour Large-Scale Scrum de Craig Larman et Bas Vodde, traduit en français: <https://wikiagile.cesi.fr/index.php?title=Cat%C3%A9gorie:Portail_LeSS>.
 
 L'enjeu est alors de réussir à passer d'équipes « composant» à des équipes « fonctionnalité ».
 
-> 2. L'article de référence Feature Team Primer de Craig Larman et Bas Vodde est traduit en français: https:/wikiagile.cesi.fr/index.php?title=Equipe_Feature.
+> 2. L'article de référence Feature Team Primer de Craig Larman et Bas Vodde est traduit en français: <https://wikiagile.cesi.fr/index.php?title=Equipe_Feature>.
 
 Avec Scrum, pas de phase projet pour le premier développement, suivie d'une phase de maintenance : la vie du produit est constituée de sprints et de saisons.
 
@@ -1544,6 +1536,6 @@ Venant du lean, le kata d'amélioration a été développé par Mike Rother.
 
 KARMA permet à une équipe de commencer son voyage avec l'agilité en l'aidant:
 à comprendre où elle veut aller; où elle se situe actuellement; à s'approprier le chemin qu'elle prend pour son voyage.
-2. Karma est un outil mis au point par le collectif agile radical: <https://agileradical.org/outils/karmal>.
+2. Karma est un outil mis au point par le collectif agile radical: <https://agileradical.org/outils/karma/>.
 
 En résumé : Se lancer en équipe avec Scrum est relativement facile, pérenniser et enforcer l'agilité d'une organisation est autrement plus délicat. Cela représente un changement de paradigme qui entraîne une modification profonde. Une stratégie d'amélioration consiste à faire un atelier KARMA à chaque fin de saison pour définir l'objectif, les impacts clés et les capacités à améliorer. Coopérer pour améliorer continument ses capacités, c'est ce qui donne à l'équipe le pouvoir d'utiliser l'agilité et Scrum au service de son intention et d'en faire des outils conviviaux.
