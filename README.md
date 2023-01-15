@@ -14,3 +14,4 @@
 * [L'ecclésiaste - Cohelet](./l_ecclesiaste.md) - Ernest RENAN
 * [SCRUM - un outil convival pour une agilité radicale](./scrum.md) - Claude AUBRY
 * [Kanban - l'approche en flux pour l'entreprise agile](./kanban.md) - Laurent MORISSEAU & Pablo PERNOT
+* [La magie du rangement](./konmarie.md) - Marie KONDO
