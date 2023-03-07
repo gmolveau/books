@@ -1,4 +1,3 @@
-
 # Zero To One
 
 > Zero To One, Notes on startups or How to build the future - Peter THIEL - ISBN:978-0-75355-520-0
@@ -24,7 +23,7 @@ all failedcompany are the same, they failed to escape competition
 
 if you can't beat your rival, it may be better to merge
 
-characteristics of monopoly : 
+characteristics of monopoly :
 
 1. proprietary technology
   must be 10x time better than competition
@@ -74,13 +73,13 @@ seven questions every business must answer :
 
 1. The engineering question :
   can you create breakthrough technology instead of incremental improvements ?
-2. The timing question : 
+2. The timing question :
   Is now the right time to start your particular business ?
 3. The monopoly question :
   Are you starting with a big share of a small market ?
 4. The people question :
   Do you have the right team ?
-5. The distribution question : 
+5. The distribution question :
   Do you have a way to no just create but deliver your product ?
 6. The durability question :
   Will your market position be defensible 10 ans 20 years into the future ?
