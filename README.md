@@ -15,3 +15,5 @@
 * [SCRUM - un outil convival pour une agilité radicale](./scrum.md) - Claude AUBRY
 * [Kanban - l'approche en flux pour l'entreprise agile](./kanban.md) - Laurent MORISSEAU & Pablo PERNOT
 * [La magie du rangement](./konmarie.md) - Marie KONDO
+* [The richest man in Babylon](./the_richest_man_in_babylon.md) - George CLASON
+* [Le but](./le_but.md) - Eliyahu M. Goldratt & J. Cox
