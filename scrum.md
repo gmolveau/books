@@ -4,501 +4,576 @@
 
 ## Sommaire
 
-Intro
+<details>
+<summary>Table des matières</summary>
 
-1. Scrum, un outil de l’agilité
-    1.1. Scrum est un outil
-        1.1.1. Un outil léger
-        1.1.2. Un outil d’équipe
-        1.1.3. Un nom dont le nom vient d’un jeu
-        1.1.4. Un outil avec un mode d’emploi et une intention
-    1.2. Scrum est agile
-        1.2.1. Le Manifeste agile
-        1.2.2. Les pratiques agiles
-        1.2.3. Les méthodes agiles
-        1.2.4. Scrum, la marque de l’agilité
-    1.3. Scrum est adapté au travail de la connaissance
-        1.3.1. Besoins évolutifs
-        1.3.2. Problème complexe
-        1.3.3. Intangible
-        1.3.4. Solution nouvelle
-        1.3.5. Décisions différées
-        1.3.6. Capacité de changer radicalement
-    1.4. De quel Scrum parlons-nous ?
-        1.4.1. Un Scrum loyal vis à vis de la référence
-        1.4.2. Un Scrum indépendant
-        1.4.3. un Scrum en français
-        1.4.4. Un Scrum élargi
-        1.4.5. Faire de Scrum un outil convivial
+- Préface par Pablo PERNOT
+- Avant-Propos
+- Intro
+- 1. Scrum, un outil de l’agilité
+  - 1.1. Scrum est un outil
+    - 1.1.1. Un outil léger
+    - 1.1.2. Un outil d’équipe
+    - 1.1.3. Un outil dont le nom vient d’un jeu
+    - 1.1.4. Un outil avec un mode d’emploi et une intention
+  - 1.2. Scrum est agile
+    - 1.2.1. Le _Manifeste_ agile
+    - 1.2.2. Les pratiques agiles
+    - 1.2.3. Les méthodes agiles
+    - 1.2.4. Scrum, la marque de l’agilité
+  - 1.3. Scrum est adapté au travail de la connaissance
+    - 1.3.1. Besoins évolutifs
+    - 1.3.2. Problème complexe
+    - 1.3.3. Intangible
+    - 1.3.4. Solution nouvelle
+    - 1.3.5. Décisions différées
+    - 1.3.6. Capacité de changer radicalement
+  - 1.4. De quel Scrum parlons-nous ?
+    - 1.4.1. Un Scrum loyal vis-à-vis de la référence
+    - 1.4.2. Un Scrum indépendant
+    - 1.4.3. un Scrum en français
+    - 1.4.4. Un Scrum élargi
+    - 1.4.5. Faire de Scrum un outil convivial
+
 // Première Partie - L’écosystème
-2. L’équipe Scrum
-    2.1. L’équipe redéfinie
-        2.1.1. Une équipe c’est plus qu’un groupe
-        2.1.2. L’équipe Scrum a une finalité
-        2.1.3. L’équipe Scrum s’adapte à la situation
-        2.1.4. Scrum est un outil de focalisation pour l’équipe
-    2.2. Caractéristiques de l’équipe
-        2.2.1. Taille raisonnable
-        2.2.2. Auto-organisation
-        2.2.3. Pluridisciplinarité
-        2.2.4. Identité
-        2.2.5. Stabilité
-    2.3. Activités d’une équipe
-        2.3.1. Coopérer
-        2.3.2. Donner
-        2.3.3. Réfléchir et améliorer
-    2.4. L’espace de travail
-        2.4.1. Les zones d’échanges
-        2.4.2. Co-localisation physique
-        2.4.3. Télétravail total
-        2.4.4. Télétravail hybride
-3. Le rôle de coéquipier
-    3.1. Un Scrumeur ?
-        3.1.1. Un membre d’équipe qui coopère
-        3.1.2. Un joueur dans le collectif
-    3.2. Activités
-        3.2.1. Une journée typique de coéquipier
-        3.2.2. Rythme soutenable : temps forts, temps faibles
-    3.3. Attitudes
-        3.3.1. Désir d’obtenir un résultat
-        3.3.2. Goût des autres
-        3.3.3. Envie d’apprendre le domaine métier
-        3.3.4. Envie d’apprendre de nouvelles pratiques
-    3.4. Compétences
-        3.4.1. Scrum
-        3.4.2. Techniques d’ingénierie
-    3.5. Capacités
-        3.5.1. Expliquer les techniques et outils utilisés
-        3.5.2. Se focaliser pour finir un travail
-        3.5.3. Travailler en groupe
-    3.6. Exigences
-        3.6.1. Rester dans l’équipe suffisamment de temps
-        3.6.2. Suivre les règles
-        3.6.3. Agir en accord avec son idéal
-4. Le rôle de Product Owner
-    4.1. Product quoi ?
-    4.2. Activités
-        4.2.1. Une journée de Product Owner
-        4.2.2. Des activités qui portent sur le quoi
-    4.3. Attitudes
-        4.3.1. Envie de changer le monde
-        4.3.2. Ouvert au feedback des utilisateurs
-        4.3.3. À l’écoute des idées de ses coéquipiers
-    4.4. Compétences
-        4.4.1. Le domaine métier
-        4.4.2. Scrum et l’agilité
-    4.5. Capacités
-        4.5.1. Percevoir la valeur
-        4.5.2. Prendre les décisions concernant le résultat
-        4.5.3. Détailler au bon moment
-        4.5.4. Garder le cap
-    4.6. Exigences
-        4.6.1. Donner de son temps à l’équipe
-        4.6.2. Pratiquer l’art de la conversation
-        4.6.3. Dire non aux demandes en violation avec la mission de l’équipe
-        4.6.4. Défendre l’équipe auprès des parties prenantes
-5. Le rôle de Scrum Master
-    5.1. Un maître ?
-        5.1.1. Etymologie
-        5.1.2. Analogies
-        5.1.3. Entraineur joueur facilitateur
-    5.2. Activités
-        5.2.1. Une journée typique
-        5.2.2. Trois rythmes
-    5.3. Attitudes
-        5.3.1. Curiosité pour les idées qui émanent de l’agilité
-        5.3.2. Altruisme, au service de l’équipe
-        5.3.3. Inclination pour l’entraide
-        5.3.4. Ténacité
-        5.3.5. Sensibilité aux émotions des coéquipiers
-    5.4. Compétences
-        5.4.1. Scrum et l’agilité
-        5.4.2. Animation de groupe
-        5.4.3. Le fonctionnel et la technique
-    5.5. Capacités
-        5.5.1. Favoriser la coopération
-        5.5.2. Guider vers l’objectif
-        5.5.3. Protéger l’équipe
-        5.5.4. Critiquer de manière constructive
-    5.6. Exigences
-        5.6.1. Éliminer rapidement les obstacles
-        5.6.2. Faire respecter les règles communes
-        5.6.3. Se demander s’il est vraiment utile
-6. Le rôle de partie prenante
-    6.1. Qui est partie prenante ? Des contextes variés
-        6.1.1. Développement interne
-        6.1.2. Sous-traitance contractuelle
-        6.1.3. B2B
-        6.1.4. B2C
-        6.1.5. Plateforme
-    6.2. Activités dans le cadre de Scrum
-        6.2.1. Prendre part
-        6.2.2. Donner de l’expertise
-        6.2.3. Donner les moyens
-        6.2.4. Donner du feedback
-    6.3. Attitudes
-        6.3.1. Envie de donner
-        6.3.2. Disposition pour le lâcher prise
-        6.3.3. Mise en confiance
-    6.4. Compétence
-        6.4.1. Fondamentaux de l’agilité
-    6.5. Capacités
-        6.5.1. Transmettre son expertise
-        6.5.2. Donner un bon feedback
-        6.5.3. Déléguer au Product Owner
-    6.6. Exigences
-        6.6.1. Répondre rapidement
-        6.6.2. Laisser les personnes à plein-temps
-        6.6.3. Limiter les demandes urgentes
-// Deuxième Partie - Les boucles
-7. Le sprint
-    7.1. Sprint, la boucle de Scrum
-        7.1.1. Boucle à rythme régulier
-        7.1.2. Sprint, un nom mal choisi
-        7.1.3. Activités d’un sprint
-    7.2. Bloc de temps
-        7.2.1. Temps contraint
-        7.2.2. Durée du sprint
-    7.3. Objectif du sprint
-        7.3.1. Un objectif de sprint pour s’engager
-        7.3.2. L’objectif du sprint conditionne le contenu
-    7.4. Plan de sprint
-8. Le backlog
-    8.1. Baque quoi ?
-        8.1.1. N’y aurait-il pas un mot en français pour backlog ?
-        8.1.2. Backlog d’équipe pas de produit
-    8.2. L’outil essentiel de l’écosystème
-        8.2.1. Public
-        8.2.2. Réduit
-        8.2.3. Ordonné
-        8.2.4. Unique
-        8.2.5. Vivant
-        8.2.6. Émergent
-    8.3. La story, une belle histoire
-        8.3.1. Une story se raconte
-        8.3.2. Une story est réalisée dans un sprint
-    8.4. Structure du backlog
-        8.4.1. Vie de la story
-        8.4.2. Bac à sable pour les idées
-        8.4.3. Entonnoir pour les stories à affiner
-        8.4.4. Liste de départ des stories prêtes
-    8.5. Tout est story
-        8.5.1. Story à valeur utilisateur directe
-        8.5.2. Story pour apprendre
-        8.5.3. Story d’investissement
-9. Le résultat du sprint
-    9.1. C’est quoi le résultat ?
-        9.1.1. Pourquoi ne pas dire incrément ?
-        9.1.2. Pourquoi ne pas dire produit ?
-        9.1.3. Le résultat n’est pas mis en service
-    9.2. Le résultat est Fini
-        9.2.1. Signification de fini
-        9.2.2. Fini pour une story
-        9.2.3. Fini pour le résultat du sprint
-    9.3. Le résultat est Utile
-        9.3.1. Utile pour réduire les risques
-        9.3.2. Utile pour une mise en service ultérieure
-        9.3.3. Utile pour prévoir
-    9.4. Le résultat est Nécessaire
-10. Les autres boucles
-    10.1. La mise en service
-        10.1.1. Le résultat de la mise en service
-        10.1.2. Le feedback de la mise en service
-        10.1.3. Valeur et revenu
-        10.1.4. Qui décide de la mise en service ?
-        10.1.5. À quel rythme mettre en service
-    10.2. La fonctionnalité de valeur
-        10.2.1. Deux points de vue sur le backlog
-        10.2.2. La fonctionnalité
-        10.2.3. Vie de la fonctionnalité
-        10.2.4. Fini pour une fonctionnalité
-    10.3. Le rythme des saisons
-        10.3.1. Durée des saisons
-        10.3.2. L’interlude de fin de saison
-//Troisième Partie - Le prélude
-11. Naissance de l’équipe
-    11.1. Ouverture du prélude
-        11.1.1. Situation de départ
-        11.1.2. Durée du prélude
-        11.1.3. Participants
-        11.1.4. Qui anime ?
-        11.1.5. Où se déroule le prélude ?
-    11.2. Une équipe conviviale
-        11.2.1. Entrainement des coéquipiers à la coopération
-        11.2.2. Choix des rôles de Scrum Master et Product Owner ?
-        11.2.3. Partage des idéaux des coéquipiers
-        11.2.4. Examen de la capacité de l’équipe à vivre ensemble
-    11.3. Une équipe alignée avec les parties prenantes
-        11.3.1. Montée en compétence des parties prenantes dans Scrum
-        11.3.2. Identification des expertises
-        11.3.3. Vision du sponsor
-        11.3.4. Mission de l’équipe
-        11.3.5. Rappel des exigences pour les parties prenantes
-        11.3.6. Accord sur les principes fondamentaux
-12. Création du backlog
-    12.1. Une création collective
-        12.1.1. de quoi partir ?
-        12.1.2. avec qui et où ?
-        12.1.3. quand élaborer le backlog initial ?
-    12.2. Alignement stratégique
-        12.2.1. Objectifs et impacts clés
-        12.2.2. Carte de POLICE
-    12.3. Identifier les objectifs et impacts clés
-        12.3.1. Définir les objectifs de saison
-        12.3.2. Définir les impacts clés
-    12.4. Premier backlog
-        12.4.1. Lister les fonctionnalités
-        12.4.2. story mapping
-        12.4.3. Créer les stories
-        12.4.4. Alimenter le backlog
-13. Capacité de l’équipe à donner un résultat
-    13.1. Logistique opérationnelle
-        13.1.1. Ritualisation contextuelle
-        13.1.2. Espace de travail
-        13.1.3. Outils
-        13.1.4. Règles du jeu
-    13.2. Backlog prêt pour le sprint
-        13.2.1. Premier affinage
-        13.2.2. Prêt pour une story
-        13.2.3. Prêt pour une fonctionnalité
-        13.2.4. Objectif du premier sprint
-    13.3. Test hello première boucle
-    13.4. Première définition de fini
-        13.4.1. Qui définit fini ?
-        13.4.2. Exigences non fonctionnelles
-        13.4.3. Comment définir fini ?
-    13.5. Clôture du prélude
-        13.5.1. Communication des résultats
-        13.5.2. Rétrospective du prélude
-        13.5.3. Célébration
-// Quatrième Partie - Les rites
-14. La planification du sprint
-    14.1. Plus que de la planification, de la coopération
-        14.1.1. Pourquoi planifier le sprint ?
-        14.1.2. Avec quoi ? C’est la story qui sprinte
-        14.1.3. Avec qui ? C’est l’équipe qui planifie
-        14.1.4. Quand ? C’est le premier rite du sprint
-        14.1.5. Où ? Selon le type de localisation
-    14.2. Résultats de la planification de sprint
-        14.2.1. L’équipe a un objectif
-        14.2.2. L’équipe a un plan
-    14.3. Comment planifier le sprint ?
-        14.3.1. Se mettre dans le contexte du sprint
-        14.3.2. S’assurer des stories prêtes
-        14.3.3. Mettre en place le fourmillement
-        14.3.4. Définir le taf
-        14.3.5. S’engager
-        14.3.6. Lancer le sprint
-15. La mêlée quotidienne
-    15.1. Mêlée comme au rugby ?
-    15.2. Aléas pendant le sprint
-        15.2.1. Obstacle
-        15.2.2. Perturbation exogène
-        15.2.3. Changement venant de l’équipe
-        15.2.4. Terminaison des travaux
-    15.3. Un rite quotidien
-        15.3.1. Quand ? Tous les jours
-        15.3.2. Pourquoi ? Pour avoir une boucle de feedback rapide
-        15.3.3. Avec qui ? la mêlée appartient à l’équipe
-        15.3.4. Où ? devant le tableau
-    15.4. Résultats de la mêlée
-        15.4.1. Une bonne ambiance
-        15.4.2. En chemin vers l’objectif
-        15.4.3. Des obstacles remontés
-    15.5. Comment faire une mêlée
-        15.5.1. Se réunir
-        15.5.2. Présenter ce qu’on a donné
-        15.5.3. Prévoir la coopération
-        15.5.4. Identifier les obstacles
-        15.5.5. S’améliorer pour atteindre l’objectif
-    15.6. De la mêlée au maul
-        15.6.1. La story se raconte
-        15.6.2. Se répartir sur les stories
-        15.6.3. Risques et bénéfices
-16. L’affinage du backlog
-    16.1. Comme un fromage
-    16.2. L’affinage, ritualisé
-        16.2.1. Pourquoi ? pour réussir les prochains sprints
-        16.2.2. Avec qui ? Le PO et ses coéquipiers
-        16.2.3. Quand ? Ritualiser les séances d’affinage
-        16.2.4. Avec quoi ? Un backlog structuré
-    16.3. Résultats de l’affinage
-        16.3.1. Un backlog prêt
-        16.3.2. Un écosystème en confiance
-    16.4. Comment affiner ?
-        16.4.1. Alimenter en stories prêtes
-        16.4.2. Décomposer
-        16.4.3. Approvisionner en nouvelles stories
-        16.4.4. Purger
-        16.4.5. Trier
-        16.4.6. Estimer
-        16.4.7. Réordonner
-    16.5. Affiner les fonctionnalités
-        16.5.1. Avec qui ?
-        16.5.2. Comment ?
-17. La revue de sprint
-    17.1. Plus qu’une démo, du don
-        17.1.1. Pourquoi ? Une invitation au feedback
-        17.1.2. Quand ? En fin de sprint
-        17.1.3. Avec qui ? Tous les gens de l’écosystème
-        17.1.4. Où a lieu la revue ?
-        17.1.5. Avec quoi ? Le résultat du sprint
-    17.2. Résultats
-        17.2.1. Du feedback
-        17.2.2. Un écosystème plus en confiance
-        17.2.3. Une visibilité sur l’avancement
-    17.3. Comment faire une revue
-        17.3.1. Préparer la revue
-        17.3.2. Statuer sur l’objectif du sprint
-        17.3.3. Effectuer la démo
-        17.3.4. Collecter le feedback
-        17.3.5. Évaluer l’impact obtenu
-        17.3.6. Décider de l’avenir du produit
-    17.4. Revue en trois parties
-18. La rétrospective
-    18.1. Un rite pour s’améliorer
-        18.1.1. Pourquoi ? La boucle d’amélioration
-        18.1.2. Quand ? Un moment de réflexion collective
-        18.1.3. Qui ? C’est l’équipe qui refait le match
-        18.1.4. Où se passe la rétrospective ?
-    18.2. Résultats
-        18.2.1. Equipe plus soudée
-        18.2.2. Un objectif d’amélioration pour le prochain sprint
-    18.3. Comment faire une rétrospective
-        18.3.1. Créer un environnement propice à l’expression
-        18.3.2. Collecter les informations sur le sprint passé
-        18.3.3. Identifier des idées d’amélioration
-        18.3.4. Sélectionner l’amélioration pour le prochain sprint
-        18.3.5. Adapter Scrum pour le prochain sprint
-    18.4. Exemples de rétrospectives
-        18.4.1. Etoile de mer
-        18.4.2. Rétrochataigne
-        18.4.3. Bateau rapide
-// Cinquième Partie - La coopération
-19. Coopérer pour donner un résultat de qualité
-    19.1. Importance des capacités des coéquipiers
-    19.2. Pratiques autour du code
-        19.2.1. Intégration continue
-        19.2.2. Développement piloté par les tests
-        19.2.3. Programmation en binôme
-    19.3. Pratiques de conception
-        19.3.1. Architecture évolutive
-        19.3.2. Conception émergente
-    19.4. Pratiques de test
-        19.4.1. Test d’acceptation
-        19.4.2. Accepter la story
-    19.5. Maintenance
-        19.5.1. Il n’y a pas de phase de maintenance
-        19.5.2. Gestion des bugs
-    19.6. Mob programming, la quintessence de la coopération
-        19.6.1. Qu’est-ce que le mob programming ?
-        19.6.2. Les rôles
-        19.6.3. La passe
-20. Coopérer pour prévoir
-    20.1. Pourquoi planifier plus loin que le sprint ?
-        20.1.1. Petit rappel sur la signification des échéances
-        20.1.2. Prévoir pour préparer la mise en service du produit
-        20.1.3. Prévoir pour décider
-    20.2. Les fondamentaux de la planification agile
-        20.2.1. Durée fixée, périmètre ajusté
-        20.2.2. Vélocité et capacité
-        20.2.3. Backlog et planification
-        20.2.4. Quand planifier ?
-        20.2.5. Avec qui planifier ?
-    20.3. Comment planifier la saison
-        20.3.1. Identifier la quantité de travail pour la saison
-        20.3.2. Mesurer la vélocité et déduire la capacité
-        20.3.3. Projeter sur le backlog
-        20.3.4. Prendre en compte les incertitudes
-    20.4. Engagement sur l’objectif de saison
-        20.4.1. Sur un contenu ?
-        20.4.2. Sur un objectif ?
-        20.4.3. Engagement contractuel
-    20.5. Résultats de la planification de saison
-        20.5.1. Plus de transparence
-        20.5.2. Un plan de saison actualisé
-        20.5.3. Les réponses aux questions essentielles
-    20.6. Prévoir sans estimer, la quintessence de la planification
-21. Coopérer pour fluidifier le travail
-    21.1. Pourquoi fluidifier ?
-        21.1.1. Problèmes rencontrés avec Scrum dans certaines situations
-        21.1.2. Brève introduction à Kanban
-        21.1.3. Limites Kanban
-    21.2. Limites les travaux du sprint
-        21.2.1. Limite sur le nombre de tâches en cours
-        21.2.2. Visualiser et limiter les urgences
-    21.3. Limiter les stories
-        21.3.1. Limite dans le sprint
-        21.3.2. Limite dans le backlog
-    21.4. Limiter les fonctionnalités
-        21.4.1. Limite sur les colonnes
-    21.5. Mesures et indicateurs
-    21.6. Arrêter Scrum pour Kanban ?
-        21.6.1. risques dans l’application de Kanban sur Scrum
-        21.6.2. mauvaises raisons d’arrêter Scrum pour Kanban
-        21.6.3. bonnes raisons d’arrêter Scrum pour Kanban
-    21.7. Limiter à 1, la quintessence de la fluidité
-22. Coopérer à plusieurs équipes
-    22.1. Approche fractale et minimale
-        22.1.1. Commencer à petite échelle
-        22.1.2. Scrum de scrums
-        22.1.3. Échelle verticale
-    22.2. Plusieurs équipes
-        22.2.1. L’écosystème avec plusieurs équipes
-        22.2.2. Equipes fonctionnalités
-        22.2.3. Le rôle de Product Owner
-        22.2.4. La coopération entre les équipes
-    22.3. Cycle de vie produit
-        22.3.1. Synchronisation des équipes
-        22.3.2. Saisons à date fixée
-        22.3.3. Prélude
-    22.4. Backlog et affinage à plusieurs équipes
-        22.4.1. Kanban des fonctionnalités partagé
-        22.4.2. Backlog de travail adapté
-        22.4.3. Affinage à grande échelle
-        22.4.4. Définitions de prêt et de fini à l’échelle
-    22.5. Les rites du sprint à l’échelle
-        22.5.1. Planification de sprint
-        22.5.2. Mêlée
-        22.5.3. Revue
-        22.5.4. Rétrospective
-        22.5.5. Résumé
-    22.6. Antipatterns d’agilité à l’échelle
-        22.6.1. La mode du scaling agile
-        22.6.2. Les néocons
-        22.6.3. Les accros aux plans
-        22.6.4. Cargo cult Spotify
-    22.7. FAST, la quintessence de la coopération à plusieurs équipes
-23. Coopérer pour améliorer les capacités de l’équipe
-    23.1. Stratégie d’amélioration
-        23.1.1. Changement de paradigme
-        23.1.2. S’orienter avec Agile Fluency
-        23.1.3. Kata d’amélioration
-    23.2. Comment améliorer les capacités ?
-        23.2.1. Où voulons-nous aller ? L’objectif de l’agilité
-        23.2.2. Où en sommes-nous de la maitrise de l’agilité ?
-        23.2.3. Quel est notre objectif agilité de la saison ?
-        23.2.4. Quelles capacités améliorer et acquérir ?
-        23.2.5. Comment acquérir les capacités souhaitées ?
-    23.3. Scrum, un outil convivial pour une agilité radicale
 
-## Notes
+- 2. L’équipe Scrum
+  - 2.1. L’équipe redéfinie
+    - 2.1.1. Une équipe c’est plus qu’un groupe
+    - 2.1.2. L’équipe Scrum a une finalité
+    - 2.1.3. L’équipe Scrum s’adapte à la situation
+    - 2.1.4. Scrum est un outil de focalisation pour l’équipe
+  - 2.2. Caractéristiques de l’équipe
+    - 2.2.1. Taille raisonnable
+    - 2.2.2. Auto-organisation
+    - 2.2.3. Pluridisciplinarité
+    - 2.2.4. Identité
+    - 2.2.5. Stabilité
+  - 2.3. Activités d’une équipe
+    - 2.3.1. Coopérer
+    - 2.3.2. Donner
+    - 2.3.3. Réfléchir et améliorer
+  - 2.4. L’espace de travail
+    - 2.4.1. Les zones d’échanges
+    - 2.4.2. Co-localisation physique
+    - 2.4.3. Télétravail total
+    - 2.4.4. Télétravail hybride
+- 3. Le rôle de coéquipier
+  - 3.1. Un scrumeur ?
+    - 3.1.1. Un membre d’équipe qui coopère
+    - 3.1.2. Un joueur dans le collectif
+  - 3.2. Activités
+    - 3.2.1. Une journée typique de coéquipier Scrum
+    - 3.2.2. Rythme soutenable : temps forts, temps faibles
+  - 3.3. Attitudes
+    - 3.3.1. Désir d’obtenir un résultat
+    - 3.3.2. Goût des autres
+    - 3.3.3. Envie d’apprendre le domaine métier
+    - 3.3.4. Envie d’apprendre de nouvelles pratiques
+  - 3.4. Compétences
+    - 3.4.1. Scrum
+    - 3.4.2. Techniques d’ingénierie
+  - 3.5. Capacités
+    - 3.5.1. Expliquer les techniques et outils utilisés
+    - 3.5.2. Se focaliser pour finir un travail
+    - 3.5.3. Travailler en groupe
+  - 3.6. Exigences
+    - 3.6.1. Rester dans l’équipe suffisamment de temps
+    - 3.6.2. Suivre les règles
+    - 3.6.3. Agir en accord avec son idéal
+- 4. Le rôle de Product Owner
+  - 4.1. Product quoi ?
+  - 4.2. Activités
+    - 4.2.1. Une journée de Product Owner
+    - 4.2.2. Des activités qui portent sur le quoi
+  - 4.3. Attitudes
+    - 4.3.1. Envie de changer le monde
+    - 4.3.2. Ouvert au feedback des utilisateurs
+    - 4.3.3. À l’écoute des idées de ses coéquipiers
+  - 4.4. Compétences
+    - 4.4.1. Le domaine métier
+    - 4.4.2. Scrum et l’agilité
+  - 4.5. Capacités
+    - 4.5.1. Percevoir la valeur
+    - 4.5.2. Prendre les décisions concernant le résultat
+    - 4.5.3. Détailler au bon moment
+    - 4.5.4. Garder le cap
+  - 4.6. Exigences
+    - 4.6.1. Donner de son temps à l’équipe
+    - 4.6.2. Pratiquer l’art de la conversation
+    - 4.6.3. Dire non aux demandes en violation avec la mission de l’équipe
+    - 4.6.4. Défendre l’équipe auprès des parties prenantes
+- 5. Le rôle de Scrum Master
+  - 5.1. Un maître ?
+    - 5.1.1. Étymologie
+    - 5.1.2. Analogies
+    - 5.1.3. Entraineur-joueur-facilitateur
+  - 5.2. Activités
+    - 5.2.1. Une journée typique
+    - 5.2.2. Trois rythmes
+  - 5.3. Attitudes
+    - 5.3.1. Curiosité pour les idées qui émanent de l’agilité
+    - 5.3.2. Altruisme, au service de l’équipe
+    - 5.3.3. Inclination pour l’entraide
+    - 5.3.4. Ténacité
+    - 5.3.5. Sensibilité aux émotions des coéquipiers
+  - 5.4. Compétences
+    - 5.4.1. Scrum et l’agilité
+    - 5.4.2. Animation de groupe
+    - 5.4.3. Le fonctionnel et la technique
+  - 5.5. Capacités
+    - 5.5.1. Favoriser la coopération
+    - 5.5.2. Guider vers l’objectif
+    - 5.5.3. Protéger l’équipe
+    - 5.5.4. Critiquer de manière constructive
+  - 5.6. Exigences
+    - 5.6.1. Éliminer rapidement les obstacles
+    - 5.6.2. Faire respecter les règles communes
+    - 5.6.3. Se demander s’il est vraiment utile
+- 6. Le rôle de partie prenante
+  - 6.1. Qui est partie prenante ? Des contextes variés
+    - 6.1.1. Développement interne
+    - 6.1.2. Sous-traitance contractuelle
+    - 6.1.3. B2B
+    - 6.1.4. B2C
+    - 6.1.5. Plateforme
+  - 6.2. Activités dans le cadre de Scrum
+    - 6.2.1. Prendre part
+    - 6.2.2. Donner de l’expertise
+    - 6.2.3. Donner les moyens
+    - 6.2.4. Donner du feedback
+  - 6.3. Attitudes
+    - 6.3.1. Envie de donner
+    - 6.3.2. Disposition pour le lâcher prise
+    - 6.3.3. Mise en confiance
+  - 6.4. Compétence
+    - 6.4.1. Fondamentaux de l’agilité
+  - 6.5. Capacités
+    - 6.5.1. Transmettre son expertise
+    - 6.5.2. Donner un bon feedback
+    - 6.5.3. Déléguer au Product Owner
+  - 6.6. Exigences
+    - 6.6.1. Répondre rapidement
+    - 6.6.2. Laisser les personnes à plein-temps
+    - 6.6.3. Limiter les demandes urgentes
+
+// Deuxième Partie - Les boucles
+
+- 7. Le sprint
+  - 7.1. Sprint, la boucle de Scrum
+    - 7.1.1. Boucle à rythme régulier
+    - 7.1.2. Sprint, un nom mal choisi
+    - 7.1.3. Activités d’un sprint
+  - 7.2. Bloc de temps
+    - 7.2.1. Temps contraint
+    - 7.2.2. Durée du sprint
+  - 7.3. Objectif du sprint
+    - 7.3.1. Un objectif de sprint pour s’engager
+    - 7.3.2. L’objectif du sprint conditionne le contenu
+  - 7.4. Plan de sprint
+- 8. Le backlog
+  - 8.1. Baque quoi ?
+    - 8.1.1. N’y aurait-il pas un mot en français pour backlog ?
+    - 8.1.2. Backlog d’équipe pas de produit
+  - 8.2. L’outil essentiel de l’écosystème
+    - 8.2.1. Public
+    - 8.2.2. Réduit
+    - 8.2.3. Ordonné
+    - 8.2.4. Unique
+    - 8.2.5. Vivant
+    - 8.2.6. Émergent
+  - 8.3. La story, une belle histoire
+    - 8.3.1. Une story se raconte
+    - 8.3.2. Une story est réalisée dans un sprint
+  - 8.4. Structure du backlog selon la vie de la story
+    - 8.4.1. Vie de la story
+    - 8.4.2. Bac à sable pour les idées
+    - 8.4.3. Entonnoir pour les stories à affiner
+    - 8.4.4. Liste de départ des stories prêtes
+  - 8.5. Tout est story
+    - 8.5.1. Story à valeur utilisateur directe
+    - 8.5.2. Story pour apprendre
+    - 8.5.3. Story d’investissement
+- 9. Le résultat du sprint
+  - 9.1. C’est quoi le résultat ?
+    - 9.1.1. Pourquoi ne pas dire incrément ?
+    - 9.1.2. Pourquoi ne pas dire produit ?
+    - 9.1.3. Le résultat n’est pas mis en service
+  - 9.2. Le résultat est fini
+    - 9.2.1. Signification de fini
+    - 9.2.2. Fini pour une story
+    - 9.2.3. Fini pour le résultat du sprint
+  - 9.3. Le résultat est Utile
+    - 9.3.1. Utile pour réduire les risques
+    - 9.3.2. Utile pour une mise en service ultérieure
+    - 9.3.3. Utile pour prévoir
+  - 9.4. Le résultat est nécessaire
+- 10. Les autres boucles
+  - 10.1. La mise en service
+    - 10.1.1. Le résultat de la mise en service
+    - 10.1.2. Le feedback de la mise en service
+    - 10.1.3. Valeur et revenu
+    - 10.1.4. Qui décide de la mise en service ?
+    - 10.1.5. À quel rythme mettre en service ?
+  - 10.2. La fonctionnalité de valeur
+    - 10.2.1. Deux points de vue sur le backlog
+    - 10.2.2. La fonctionnalité
+    - 10.2.3. Vie de la fonctionnalité
+    - 10.2.4. Fini pour une fonctionnalité
+  - 10.3. Le rythme des saisons
+    - 10.3.1. Durée des saisons
+    - 10.3.2. L’interlude de fin de saison
+
+//Troisième Partie - Le prélude
+
+- 11. Naissance de l’équipe
+  - 11.1. Ouverture du prélude
+    - 11.1.1. Situation de départ
+    - 11.1.2. Durée du prélude
+    - 11.1.3. Participants
+    - 11.1.4. Qui anime ?
+    - 11.1.5. Où se déroule le prélude ?
+  - 11.2. Une Équipe conviviale
+    - 11.2.1. Entrainement des coéquipiers à la coopération
+    - 11.2.2. Choix des rôles de Scrum Master et Product Owner ?
+    - 11.2.3. Partage des idéaux des coéquipiers
+    - 11.2.4. Examen de la capacité de l’équipe à vivre ensemble
+  - 11.3. Une équipe alignée avec les parties prenantes
+    - 11.3.1. Montée en compétence des parties prenantes dans Scrum
+    - 11.3.2. Identification des expertises
+    - 11.3.3. Vision du sponsor
+    - 11.3.4. Mission de l’équipe
+    - 11.3.5. Rappel des exigences pour les parties prenantes
+    - 11.3.6. Accord sur les principes fondamentaux
+- 12. Création du backlog
+  - 12.1. Une création collective
+    - 12.1.1. De quoi partir ?
+    - 12.1.2. Avec qui et où ?
+    - 12.1.3. Quand élaborer le backlog initial ?
+  - 12.2. Alignement stratégique
+    - 12.2.1. Objectifs et impacts clés
+    - 12.2.2. Carte de POLICE
+  - 12.3. Identifier les objectifs et impacts clés
+    - 12.3.1. Définir les objectifs de saison
+    - 12.3.2. Définir les impacts clés
+  - 12.4. Premier backlog
+    - 12.4.1. Lister les fonctionnalités
+    - 12.4.2. Story mapping
+    - 12.4.3. Créer les stories
+    - 12.4.4. Alimenter le backlog
+- 13. Capacité de l’équipe à donner un résultat
+  - 13.1. Logistique opérationnelle
+    - 13.1.1. Ritualisation contextuelle
+    - 13.1.2. Espace de travail
+    - 13.1.3. Outils
+    - 13.1.4. Règles du jeu
+  - 13.2. Backlog prêt pour le sprint
+    - 13.2.1. Premier affinage
+    - 13.2.2. Prêt pour une story
+    - 13.2.3. Prêt pour une fonctionnalité
+    - 13.2.4. Objectif du premier sprint
+  - 13.3. Test "hello première boucle"
+  - 13.4. Première définition de fini
+    - 13.4.1. Qui définit fini ?
+    - 13.4.2. Exigences non fonctionnelles
+    - 13.4.3. Comment définir fini ?
+  - 13.5. Clôture du prélude
+    - 13.5.1. Communication des résultats
+    - 13.5.2. Rétrospective de prélude
+    - 13.5.3. Célébration
+
+// Quatrième Partie - Les rites
+
+- 14. La planification du sprint
+  - 14.1. Plus que de la planification, de la coopération
+    - 14.1.1. Pourquoi planifier le sprint ?
+    - 14.1.2. Avec quoi ? C’est la story qui sprinte
+    - 14.1.3. Avec qui ? C’est l’équipe qui planifie
+    - 14.1.4. Quand ? C’est le premier rite du sprint
+    - 14.1.5. Où ? Selon le type de localisation
+  - 14.2. Résultats de la planification de sprint
+    - 14.2.1. L’équipe a un objectif
+    - 14.2.2. L’équipe a un plan
+  - 14.3. Comment planifier le sprint ?
+    - 14.3.1. Se mettre dans le contexte du sprint
+    - 14.3.2. S’assurer des stories prêtes
+    - 14.3.3. Mettre en place le fourmillement
+    - 14.3.4. Définir le taf
+    - 14.3.5. S’engager
+    - 14.3.6. Lancer le sprint
+- 15. La mêlée quotidienne
+  - 15.1. Mêlée comme au rugby ?
+  - 15.2. Aléas pendant le sprint
+    - 15.2.1. Obstacle
+    - 15.2.2. Perturbation exogène
+    - 15.2.3. Changement venant de l’équipe
+    - 15.2.4. Terminaison des travaux
+  - 15.3. Un rite quotidien
+    - 15.3.1. Quand ? Tous les jours
+    - 15.3.2. Pourquoi ? Pour avoir une boucle de feedback rapide
+    - 15.3.3. Avec qui ? La mêlée appartient à l’équipe
+    - 15.3.4. Où ? Devant le tableau
+  - 15.4. Résultats de la mêlée
+    - 15.4.1. Une bonne ambiance
+    - 15.4.2. En chemin vers l’objectif
+    - 15.4.3. Des obstacles remontés
+  - 15.5. Comment faire une mêlée ?
+    - 15.5.1. Se réunir
+    - 15.5.2. Présenter ce qu’on a donné à l'équipe
+    - 15.5.3. Prévoir la coopération
+    - 15.5.4. Identifier les obstacles
+    - 15.5.5. S’améliorer pour atteindre l’objectif
+  - 15.6. De la mêlée au maul
+    - 15.6.1. La story se raconte
+    - 15.6.2. Se répartir sur les stories
+    - 15.6.3. Risques et bénéfices
+- 16. L’affinage du backlog
+  - 16.1. Comme un fromage
+  - 16.2. L’affinage, ritualisé
+    - 16.2.1. Pourquoi ? Pour réussir les prochains sprints
+    - 16.2.2. Avec qui ? Le Product Owner et ses coéquipiers
+    - 16.2.3. Quand ? Ritualiser les séances d’affinage
+    - 16.2.4. Avec quoi ? Un backlog structuré
+  - 16.3. Résultats de l’affinage
+    - 16.3.1. Un backlog prêt
+    - 16.3.2. Un écosystème en confiance
+  - 16.4. Comment affiner le backlog ?
+    - 16.4.1. Alimenter en stories prêtes
+    - 16.4.2. Décomposer
+    - 16.4.3. Approvisionner en nouvelles stories
+    - 16.4.4. Purger
+    - 16.4.5. Trier
+    - 16.4.6. Estimer
+    - 16.4.7. Réordonner
+  - 16.5. Affiner les fonctionnalités
+    - 16.5.1. Avec qui affiner les fonctionnalités ?
+    - 16.5.2. Comment affiner les fonctionnalités ?
+- 17. La revue de sprint
+  - 17.1. Plus qu’une démo, du don
+    - 17.1.1. Pourquoi ? Une invitation au feedback
+    - 17.1.2. Quand ? En fin de sprint
+    - 17.1.3. Avec qui ? Avecvtous les gens de l’écosystème
+    - 17.1.4. Où a lieu la revue ?
+    - 17.1.5. Avec quoi ? Le résultat du sprint
+  - 17.2. Les résultats de la revue
+    - 17.2.1. Du feedback
+    - 17.2.2. Un écosystème plus en confiance
+    - 17.2.3. Une visibilité sur l’avancement
+  - 17.3. Comment faire une revue ?
+    - 17.3.1. Préparer la revue
+    - 17.3.2. Statuer sur l’objectif du sprint
+    - 17.3.3. Effectuer la démonstration
+    - 17.3.4. Collecter le feedback
+    - 17.3.5. Évaluer l’impact obtenu
+    - 17.3.6. Décider de l’avenir du produit
+  - 17.4. La variante revue en trois parties
+- 18. La rétrospective
+  - 18.1. Un rite pour s’améliorer
+    - 18.1.1. Pourquoi ? La boucle d’amélioration
+    - 18.1.2. Quand ? Un moment de réflexion collective
+    - 18.1.3. Qui ? C’est l’équipe qui refait le match
+    - 18.1.4. Où se passe la rétrospective ?
+  - 18.2. Les résultats de la rétrospective
+    - 18.2.1. Equipe plus soudée
+    - 18.2.2. Un objectif d’amélioration pour le prochain sprint
+  - 18.3. Comment faire une rétrospective
+    - 18.3.1. Créer un environnement propice à l’expression
+    - 18.3.2. Collecter les informations sur le sprint passé
+    - 18.3.3. Identifier des idées d’amélioration
+    - 18.3.4. Sélectionner l’amélioration pour le prochain sprint
+    - 18.3.5. Adapter Scrum pour le prochain sprint
+  - 18.4. Exemples de rétrospective
+    - 18.4.1. Etoile de mer
+    - 18.4.2. Rétrochâtaigne
+    - 18.4.3. Bateau rapide
+// Cinquième Partie - La coopération
+- 19. Coopérer pour donner un résultat de qualité
+  - 19.1. Importance des capacités des coéquipiers
+  - 19.2. Pratiques autour du code
+    - 19.2.1. Intégration continue
+    - 19.2.2. Développement piloté par les tests
+    - 19.2.3. Programmation en binôme
+  - 19.3. Pratiques de conception
+    - 19.3.1. Architecture évolutive
+    - 19.3.2. Conception émergente
+  - 19.4. Pratiques de test
+    - 19.4.1. Test d’acceptation
+    - 19.4.2. Accepter la story
+    - 19.4.3. Accepter la condition et déclarer la story finie
+  - 19.5. Maintenance
+    - 19.5.1. Il n’y a pas de phase de maintenance
+    - 19.5.2. Gestion des bugs
+  - 19.6. Mob programming, la quintessence de la coopération
+    - 19.6.1. Qu’est-ce que le mob programming ?
+    - 19.6.2. Les rôles
+    - 19.6.3. La passe
+- 20. Coopérer pour prévoir
+  - 20.1. Pourquoi planifier plus loin que le sprint ?
+    - 20.1.1. Petit rappel sur la signification des échéances
+    - 20.1.2. Prévoir pour préparer la mise en service du produit
+    - 20.1.3. Prévoir pour décider
+  - 20.2. Les fondamentaux de la planification agile
+    - 20.2.1. Durée fixée, périmètre ajusté
+    - 20.2.2. Vélocité et capacité
+    - 20.2.3. Backlog et planification
+    - 20.2.4. Quand planifier ?
+    - 20.2.5. Avec qui planifier ?
+  - 20.3. Comment planifier une saison ?
+    - 20.3.1. Identifier la quantité de travail pour la saison
+    - 20.3.2. Mesurer la vélocité et déduire la capacité
+    - 20.3.3. Projeter sur le backlog
+    - 20.3.4. Prendre en compte les incertitudes
+  - 20.4. Engagement sur un plan de saison
+    - 20.4.1. Sur un contenu ?
+    - 20.4.2. Sur des objectifs de saison
+    - 20.4.3. Engagement contractuel
+  - 20.5. Résultats de la planification de saison
+    - 20.5.1. Plus de transparence
+    - 20.5.2. Un plan de saison actualisé
+    - 20.5.3. Les réponses aux questions essentielles
+  - 20.6. Prévoir sans estimer, la quintessence de la planification
+- 21. Coopérer pour fluidifier le travail
+  - 21.1. Pourquoi fluidifier ?
+    - 21.1.1. Problèmes rencontrés avec Scrum dans certaines situations
+    - 21.1.2. Brève introduction à Kanban
+    - 21.1.3. Limites Kanban
+  - 21.2. Limites les travaux du sprint
+    - 21.2.1. Limite sur le nombre de tâches en cours
+    - 21.2.2. Visualiser et limiter les urgences
+  - 21.3. Limiter les stories
+    - 21.3.1. Limite dans le sprint
+    - 21.3.2. Limite dans le backlog
+  - 21.4. Limiter les fonctionnalités
+    - 21.4.1. Limite sur les colonnes
+    - 21.4.2. Mesure du temps de cycle
+  - 21.5. Arrêter Scrum pour Kanban ?
+    - 21.5.1. risques dans l’application de Kanban sur Scrum
+    - 21.5.2. mauvaises raisons d’arrêter Scrum pour Kanban
+    - 21.5.3. bonnes raisons d’arrêter Scrum pour Kanban
+  - 21.6. Limiter à 1, la quintessence de la fluidité
+- 22. Coopérer à plusieurs équipes
+  - 22.1. Approche fractale et minimale
+    - 22.1.1. Commencer à petite échelle
+    - 22.1.2. Scrum de scrums
+    - 22.1.3. Échelle verticale
+  - 22.2. Plusieurs équipes
+    - 22.2.1. L’écosystème avec plusieurs équipes
+    - 22.2.2. Equipes "fonctionnalités"
+    - 22.2.3. Le rôle de Product Owner
+    - 22.2.4. La coopération entre les équipes
+  - 22.3. Cycle de vie produit
+    - 22.3.1. Synchronisation des équipes
+    - 22.3.2. Saisons à date fixée
+    - 22.3.3. Prélude
+  - 22.4. Backlog et affinage à plusieurs équipes
+    - 22.4.1. Kanban des fonctionnalités partagé
+    - 22.4.2. Backlog de stories adapté
+    - 22.4.3. Affinage à grande échelle
+    - 22.4.4. Définitions de prêt et de fini à l’échelle
+  - 22.5. Les rites du sprint à l’échelle
+    - 22.5.1. Planification de sprint
+    - 22.5.2. Mêlée
+    - 22.5.3. Revue
+    - 22.5.4. Rétrospective
+    - 22.5.5. Synthèse sur les rites
+  - 22.6. Antipatterns d’agilité à l’échelle
+    - 22.6.1. La mode du scaling agile
+    - 22.6.2. Les néocons
+    - 22.6.3. Les accros aux plans
+    - 22.6.4. Le cargo cult Spotify
+  - 22.7. FAST, la quintessence de la coopération à plusieurs équipes
+- 23. Coopérer pour améliorer les capacités de l’équipe
+  - 23.1. Stratégie d’amélioration
+    - 23.1.1. Changement de paradigme
+    - 23.1.2. S’orienter avec Agile Fluency
+    - 23.1.3. Kata d’amélioration
+  - 23.2. Comment améliorer les capacités de l'équipe ?
+    - 23.2.1. Où voulons-nous aller ? L’objectif de l’agilité
+    - 23.2.2. Où en sommes-nous de la maitrise de l’agilité ?
+    - 23.2.3. Quel est notre objectif agilité pour la saison ?
+    - 23.2.4. Quelles capacités améliorer et acquérir ?
+    - 23.2.5. Comment acquérir les capacités souhaitées ?
+  - 23.3. Scrum, un outil convivial pour une agilité radicale
+
+</details>
+
+## Préface par Pablo PERNOT
 
 Les fondations sont connues de beaucoup (et sinon vous les découvrirez plus loin dans le livre). L'auto-organisation de l'équipe, son autonomie (les prises de décision relatives à l'équipe sont prises par l'équipe, incluant naturellement le « Product Owner» et le « Scrum Master»). La capacité à découper en petits morceaux autonomes, qui font sens par eux-mêmes de façon à pouvoir les valider, observer leur impact, et apprendre ou engranger régulièrement de la valeur. Prioriser la réalisation de ces éléments par la valeur dont on estime qu'ils sont porteurs. S'interroger régulièrement sur comment s'améliorer. En voilà des fondations.
 
 Ce que vous devriez rechercher dans le livre de Claude, notamment dans cette édition où je trouve que cela s'est étoffé, c'est cette glue philosophique, cette cohérence culturelle. Ce que j'exprimais dans la précédente préface c'est que si vous le viviez, vous le sauriez instantanément, car cela remue, cela demande un lâcher-prise.
 
-J'ai constaté, comme Pablo le pointe dans sa préface, que Scrum était encore et toujours déformé, dévoyé, détourné ou carrément déshabillé;
+## Avant-Propos
 
-Le rythme est donné par une série de boucles de feedback, appelées sprints.
-Toutes les choses à réaliser sont ordonnées dans le backlog. L'équipe travaille sur la partie du backlog la plus prioritaire. Ce flux de travail est entrecoupé par la cadence régulière des rites du sprint:
+J'ai constaté, comme Pablo le pointe dans sa préface, que Scrum était encore et toujours déformé, dévoyé, détourné ou carrément déshabillé.
 
-- au début du sprint, la planification consiste à se mettre d'accord sur un objectif, et à préparer le travail pour y arriver;
-- chaque jour, la mêlée est un point de synchronisation, en équipe, pour converger vers l'atteinte de l'objectif;
-- à la fin du sprint, lors de la revue, l'équipe présente le résultat qu'elle a obtenu, afin de solliciter du feedback qui va alimenter le backlog ;
+## Intro
+
+## 1. Scrum, un outil de l’agilité
+
+### 1.1. Scrum est un outil
+
+#### 1.1.1. Un outil léger
+
+#### 1.1.2. Un outil d’équipe
+
+#### 1.1.3. Un outil dont le nom vient d’un jeu
+
+Le mot Scrum vient du rugby. C'est un effort collectif. Cette référence provient d'un article de 1986, rédigé par des Japonais, qui aiment le rugby. Il montre comment des sociétés (Honda, Canon, NEC et Juji-Xerox) sont performantes avec une approche de co-construction pour le développement de leurs produits.
+
+La mêlée du rugby est en opposition avec l'approche séquentielle traditionnelle, autrement appelée "course de relais".
+
+#### 1.1.4. Un outil avec un mode d’emploi et une intention
+
+Le rythme est donné par une série de **boucles de feedback**, appelées **sprints**. Toutes les choses à réaliser sont ordonnées dans le **backlog**. L'équipe travaille sur la partie du backlog la plus prioritaire. Ce flux de travail est entrecoupé par la cadence régulière des **rites du sprint**:
+
+- au début du sprint, la **planification** consiste à se mettre d'accord sur un objectif, et à préparer le travail pour y arriver;
+- chaque jour, la **mêlée** est un point de synchronisation, en équipe, pour converger vers l'atteinte de l'objectif;
+- à la fin du sprint, lors de la **revue**, l'équipe présente le résultat qu'elle a obtenu, afin de solliciter du feedback qui va alimenter le backlog ;
+
+### 1.2. Scrum est agile
+
+#### 1.2.1. Le _Manifeste_ agile
+
+<https://fr.wikipedia.org/wiki/Manifeste_agile>
+
+Scrum se range sous la bannière du _Manifeste_ agile. Ses deux fondateurs font partie des dix-sept signataires.
+
+#### 1.2.2. Les pratiques agiles
+
+#### 1.2.3. Les méthodes agiles
+
+Scrum et eXtreme Programming (XP) existaient avant le _Manifeste_.
+
+Kanban en fait aussi partie.
+
+#### 1.2.4. Scrum, la marque de l’agilité
+
+### 1.3. Scrum est adapté au travail de la connaissance
+
+#### 1.3.1. Besoins évolutifs
+
+#### 1.3.2. Problème complexe
+
+#### 1.3.3. Intangible
+
+#### 1.3.4. Solution nouvelle
+
+#### 1.3.5. Décisions différées
+
+#### 1.3.6. Capacité de changer radicalement
 
 Si votre organisation est clairement dans une culture du contrôle et que vous n'êtes pas en mesure de promouvoir le changement radical nécessaire, Scrum n'est pas pour vous tout de suite. Il vaut mieux attendre, ou - mieux - essayer ce qui est décrit dans la partie Prélude.
+
 De même, si vous travaillez continuellement dans l'urgence et que vous n'avez pas la capacité de réduire les perturbations, vous n'arriverez pas à focaliser l'équipe sur un sprint sans qu'elle soit perturbée. Dans ce contexte d'urgence permanente, l'usage de Scrum n'est pas le plus recommandé. Kanban est probablement plus adapté, même si, comme nous le verrons plus loin, il est aussi possible d'utiliser Scrum avec Kanban.
+
+### 1.4. De quel Scrum parlons-nous ?
+
+#### 1.4.1. Un Scrum loyal vis-à-vis de la référence
+
+<https://scrumguides.org/download.html>
+
+#### 1.4.2. Un Scrum indépendant
 
 Je ne compte plus les personnes qui m'ont sollicité pour obtenir leur certification Scrum. Quand l'objectif premier n'est pas d'être bien formé mais d'être certifié, on est entré dans un système d'évaluation perverti.
 
@@ -506,9 +581,921 @@ Ce système est entretenu par les organismes de formation qui délivrent eux mê
 
 Après la Scrum Alliance et sa certification CM, Ken Schwaber a fondé Scrum.org qui a repris ce principe pyramidal en remplaçant le C de certifié par le P de professionnel, et en multipliant les offres pour chaque rôle et différents contextes. Alléchés par l'appât du gain, d'autres ont essayé de trouver leur place dans ce marché de la formation certifiante.
 
+#### 1.4.3. un Scrum en français
+
+#### 1.4.4. Un Scrum élargi
+
 La nature radicale de Scrum - en particulier l'auto-organisation peut être diluée dans l'application mécanique d'éléments de méthode.
 
 Considérer Scrum comme une technique neutre d'optimisation de travail en équipe n'est pas à la hauteur des enjeux actuels.
+
+#### 1.4.5. Faire de Scrum un outil convivial
+
+// Première Partie - L’écosystème
+
+## 2. L’équipe Scrum
+
+### 2.1. L’équipe redéfinie
+
+#### 2.1.1. Une équipe c’est plus qu’un groupe
+
+#### 2.1.2. L’équipe Scrum a une finalité
+
+#### 2.1.3. L’équipe Scrum s’adapte à la situation
+
+#### 2.1.4. Scrum est un outil de focalisation pour l’équipe
+
+### 2.2. Caractéristiques de l’équipe
+
+#### 2.2.1. Taille raisonnable
+
+#### 2.2.2. Auto-organisation
+
+#### 2.2.3. Pluridisciplinarité
+
+#### 2.2.4. Identité
+
+#### 2.2.5. Stabilité
+
+### 2.3. Activités d’une équipe
+
+#### 2.3.1. Coopérer
+
+#### 2.3.2. Donner
+
+#### 2.3.3. Réfléchir et améliorer
+
+### 2.4. L’espace de travail
+
+#### 2.4.1. Les zones d’échanges
+
+#### 2.4.2. Co-localisation physique
+
+#### 2.4.3. Télétravail total
+
+#### 2.4.4. Télétravail hybride
+
+## 3. Le rôle de coéquipier
+
+### 3.1. Un scrumeur ?
+
+#### 3.1.1. Un membre d’équipe qui coopère
+
+#### 3.1.2. Un joueur dans le collectif
+
+### 3.2. Activités
+
+#### 3.2.1. Une journée typique de coéquipier Scrum
+
+#### 3.2.2. Rythme soutenable : temps forts, temps faibles
+
+### 3.3. Attitudes
+
+#### 3.3.1. Désir d’obtenir un résultat
+
+#### 3.3.2. Goût des autres
+
+#### 3.3.3. Envie d’apprendre le domaine métier
+
+#### 3.3.4. Envie d’apprendre de nouvelles pratiques
+
+### 3.4. Compétences
+
+#### 3.4.1. Scrum
+
+#### 3.4.2. Techniques d’ingénierie
+
+### 3.5. Capacités
+
+#### 3.5.1. Expliquer les techniques et outils utilisés
+
+#### 3.5.2. Se focaliser pour finir un travail
+
+#### 3.5.3. Travailler en groupe
+
+### 3.6. Exigences
+
+#### 3.6.1. Rester dans l’équipe suffisamment de temps
+
+#### 3.6.2. Suivre les règles
+
+#### 3.6.3. Agir en accord avec son idéal
+
+## 4. Le rôle de Product Owner
+
+### 4.1. Product quoi ?
+
+### 4.2. Activités
+
+#### 4.2.1. Une journée de Product Owner
+
+#### 4.2.2. Des activités qui portent sur le quoi
+
+### 4.3. Attitudes
+
+#### 4.3.1. Envie de changer le monde
+
+#### 4.3.2. Ouvert au feedback des utilisateurs
+
+#### 4.3.3. À l’écoute des idées de ses coéquipiers
+
+### 4.4. Compétences
+
+#### 4.4.1. Le domaine métier
+
+#### 4.4.2. Scrum et l’agilité
+
+### 4.5. Capacités
+
+#### 4.5.1. Percevoir la valeur
+
+#### 4.5.2. Prendre les décisions concernant le résultat
+
+#### 4.5.3. Détailler au bon moment
+
+#### 4.5.4. Garder le cap
+
+### 4.6. Exigences
+
+#### 4.6.1. Donner de son temps à l’équipe
+
+#### 4.6.2. Pratiquer l’art de la conversation
+
+#### 4.6.3. Dire non aux demandes en violation avec la mission de l’équipe
+
+#### 4.6.4. Défendre l’équipe auprès des parties prenantes
+
+## 5. Le rôle de Scrum Master
+
+### 5.1. Un maître ?
+
+#### 5.1.1. Étymologie
+
+#### 5.1.2. Analogies
+
+#### 5.1.3. Entraineur-joueur-facilitateur
+
+### 5.2. Activités
+
+#### 5.2.1. Une journée typique
+
+#### 5.2.2. Trois rythmes
+
+### 5.3. Attitudes
+
+#### 5.3.1. Curiosité pour les idées qui émanent de l’agilité
+
+#### 5.3.2. Altruisme, au service de l’équipe
+
+#### 5.3.3. Inclination pour l’entraide
+
+#### 5.3.4. Ténacité
+
+#### 5.3.5. Sensibilité aux émotions des coéquipiers
+
+### 5.4. Compétences
+
+#### 5.4.1. Scrum et l’agilité
+
+#### 5.4.2. Animation de groupe
+
+#### 5.4.3. Le fonctionnel et la technique
+
+### 5.5. Capacités
+
+#### 5.5.1. Favoriser la coopération
+
+#### 5.5.2. Guider vers l’objectif
+
+#### 5.5.3. Protéger l’équipe
+
+#### 5.5.4. Critiquer de manière constructive
+
+### 5.6. Exigences
+
+#### 5.6.1. Éliminer rapidement les obstacles
+
+#### 5.6.2. Faire respecter les règles communes
+
+#### 5.6.3. Se demander s’il est vraiment utile
+
+## 6. Le rôle de partie prenante
+
+### 6.1. Qui est partie prenante ? Des contextes variés
+
+#### 6.1.1. Développement interne
+
+#### 6.1.2. Sous-traitance contractuelle
+
+#### 6.1.3. B2B
+
+#### 6.1.4. B2C
+
+#### 6.1.5. Plateforme
+
+### 6.2. Activités dans le cadre de Scrum
+
+#### 6.2.1. Prendre part
+
+#### 6.2.2. Donner de l’expertise
+
+#### 6.2.3. Donner les moyens
+
+#### 6.2.4. Donner du feedback
+
+### 6.3. Attitudes
+
+#### 6.3.1. Envie de donner
+
+#### 6.3.2. Disposition pour le lâcher prise
+
+#### 6.3.3. Mise en confiance
+
+### 6.4. Compétence
+
+#### 6.4.1. Fondamentaux de l’agilité
+
+### 6.5. Capacités
+
+#### 6.5.1. Transmettre son expertise
+
+#### 6.5.2. Donner un bon feedback
+
+#### 6.5.3. Déléguer au Product Owner
+
+### 6.6. Exigences
+
+#### 6.6.1. Répondre rapidement
+
+#### 6.6.2. Laisser les personnes à plein-temps
+
+#### 6.6.3. Limiter les demandes urgentes
+
+// Deuxième Partie - Les boucles
+
+## 7. Le sprint
+
+### 7.1. Sprint, la boucle de Scrum
+
+#### 7.1.1. Boucle à rythme régulier
+
+#### 7.1.2. Sprint, un nom mal choisi
+
+#### 7.1.3. Activités d’un sprint
+
+### 7.2. Bloc de temps
+
+#### 7.2.1. Temps contraint
+
+#### 7.2.2. Durée du sprint
+
+### 7.3. Objectif du sprint
+
+#### 7.3.1. Un objectif de sprint pour s’engager
+
+#### 7.3.2. L’objectif du sprint conditionne le contenu
+
+### 7.4. Plan de sprint
+
+## 8. Le backlog
+
+### 8.1. Baque quoi ?
+
+#### 8.1.1. N’y aurait-il pas un mot en français pour backlog ?
+
+#### 8.1.2. Backlog d’équipe pas de produit
+
+### 8.2. L’outil essentiel de l’écosystème
+
+#### 8.2.1. Public
+
+#### 8.2.2. Réduit
+
+#### 8.2.3. Ordonné
+
+#### 8.2.4. Unique
+
+#### 8.2.5. Vivant
+
+#### 8.2.6. Émergent
+
+### 8.3. La story, une belle histoire
+
+#### 8.3.1. Une story se raconte
+
+#### 8.3.2. Une story est réalisée dans un sprint
+
+### 8.4. Structure du backlog selon la vie de la story
+
+#### 8.4.1. Vie de la story
+
+#### 8.4.2. Bac à sable pour les idées
+
+#### 8.4.3. Entonnoir pour les stories à affiner
+
+#### 8.4.4. Liste de départ des stories prêtes
+
+### 8.5. Tout est story
+
+#### 8.5.1. Story à valeur utilisateur directe
+
+#### 8.5.2. Story pour apprendre
+
+#### 8.5.3. Story d’investissement
+
+## 9. Le résultat du sprint
+
+### 9.1. C’est quoi le résultat ?
+
+#### 9.1.1. Pourquoi ne pas dire incrément ?
+
+#### 9.1.2. Pourquoi ne pas dire produit ?
+
+#### 9.1.3. Le résultat n’est pas mis en service
+
+### 9.2. Le résultat est fini
+
+#### 9.2.1. Signification de fini
+
+#### 9.2.2. Fini pour une story
+
+#### 9.2.3. Fini pour le résultat du sprint
+
+### 9.3. Le résultat est Utile
+
+#### 9.3.1. Utile pour réduire les risques
+
+#### 9.3.2. Utile pour une mise en service ultérieure
+
+#### 9.3.3. Utile pour prévoir
+
+### 9.4. Le résultat est nécessaire
+
+## 10. Les autres boucles
+
+### 10.1. La mise en service
+
+#### 10.1.1. Le résultat de la mise en service
+
+#### 10.1.2. Le feedback de la mise en service
+
+#### 10.1.3. Valeur et revenu
+
+#### 10.1.4. Qui décide de la mise en service ?
+
+#### 10.1.5. À quel rythme mettre en service ?
+
+### 10.2. La fonctionnalité de valeur
+
+#### 10.2.1. Deux points de vue sur le backlog
+
+#### 10.2.2. La fonctionnalité
+
+#### 10.2.3. Vie de la fonctionnalité
+
+#### 10.2.4. Fini pour une fonctionnalité
+
+### 10.3. Le rythme des saisons
+
+#### 10.3.1. Durée des saisons
+
+#### 10.3.2. L’interlude de fin de saison
+
+//Troisième Partie - Le prélude
+
+## 11. Naissance de l’équipe
+
+### 11.1. Ouverture du prélude
+
+#### 11.1.1. Situation de départ
+
+#### 11.1.2. Durée du prélude
+
+#### 11.1.3. Participants
+
+#### 11.1.4. Qui anime ?
+
+#### 11.1.5. Où se déroule le prélude ?
+
+### 11.2. Une Équipe conviviale
+
+#### 11.2.1. Entrainement des coéquipiers à la coopération
+
+#### 11.2.2. Choix des rôles de Scrum Master et Product Owner ?
+
+#### 11.2.3. Partage des idéaux des coéquipiers
+
+#### 11.2.4. Examen de la capacité de l’équipe à vivre ensemble
+
+### 11.3. Une équipe alignée avec les parties prenantes
+
+#### 11.3.1. Montée en compétence des parties prenantes dans Scrum
+
+#### 11.3.2. Identification des expertises
+
+#### 11.3.3. Vision du sponsor
+
+#### 11.3.4. Mission de l’équipe
+
+#### 11.3.5. Rappel des exigences pour les parties prenantes
+
+#### 11.3.6. Accord sur les principes fondamentaux
+
+## 12. Création du backlog
+
+### 12.1. Une création collective
+
+#### 12.1.1. De quoi partir ?
+
+#### 12.1.2. Avec qui et où ?
+
+#### 12.1.3. Quand élaborer le backlog initial ?
+
+### 12.2. Alignement stratégique
+
+#### 12.2.1. Objectifs et impacts clés
+
+#### 12.2.2. Carte de POLICE
+
+### 12.3. Identifier les objectifs et impacts clés
+
+#### 12.3.1. Définir les objectifs de saison
+
+#### 12.3.2. Définir les impacts clés
+
+### 12.4. Premier backlog
+
+#### 12.4.1. Lister les fonctionnalités
+
+#### 12.4.2. Story mapping
+
+#### 12.4.3. Créer les stories
+
+#### 12.4.4. Alimenter le backlog
+
+## 13. Capacité de l’équipe à donner un résultat
+
+### 13.1. Logistique opérationnelle
+
+#### 13.1.1. Ritualisation contextuelle
+
+#### 13.1.2. Espace de travail
+
+#### 13.1.3. Outils
+
+#### 13.1.4. Règles du jeu
+
+### 13.2. Backlog prêt pour le sprint
+
+#### 13.2.1. Premier affinage
+
+#### 13.2.2. Prêt pour une story
+
+#### 13.2.3. Prêt pour une fonctionnalité
+
+#### 13.2.4. Objectif du premier sprint
+
+### 13.3. Test "hello première boucle"
+
+### 13.4. Première définition de fini
+
+#### 13.4.1. Qui définit fini ?
+
+#### 13.4.2. Exigences non fonctionnelles
+
+#### 13.4.3. Comment définir fini ?
+
+### 13.5. Clôture du prélude
+
+#### 13.5.1. Communication des résultats
+
+#### 13.5.2. Rétrospective de prélude
+
+#### 13.5.3. Célébration
+
+// Quatrième Partie - Les rites
+
+## 14. La planification du sprint
+
+### 14.1. Plus que de la planification, de la coopération
+
+#### 14.1.1. Pourquoi planifier le sprint ?
+
+#### 14.1.2. Avec quoi ? C’est la story qui sprinte
+
+#### 14.1.3. Avec qui ? C’est l’équipe qui planifie
+
+#### 14.1.4. Quand ? C’est le premier rite du sprint
+
+#### 14.1.5. Où ? Selon le type de localisation
+
+### 14.2. Résultats de la planification de sprint
+
+#### 14.2.1. L’équipe a un objectif
+
+#### 14.2.2. L’équipe a un plan
+
+### 14.3. Comment planifier le sprint ?
+
+#### 14.3.1. Se mettre dans le contexte du sprint
+
+#### 14.3.2. S’assurer des stories prêtes
+
+#### 14.3.3. Mettre en place le fourmillement
+
+#### 14.3.4. Définir le taf
+
+#### 14.3.5. S’engager
+
+#### 14.3.6. Lancer le sprint
+
+## 15. La mêlée quotidienne
+
+### 15.1. Mêlée comme au rugby ?
+
+### 15.2. Aléas pendant le sprint
+
+#### 15.2.1. Obstacle
+
+#### 15.2.2. Perturbation exogène
+
+#### 15.2.3. Changement venant de l’équipe
+
+#### 15.2.4. Terminaison des travaux
+
+### 15.3. Un rite quotidien
+
+#### 15.3.1. Quand ? Tous les jours
+
+#### 15.3.2. Pourquoi ? Pour avoir une boucle de feedback rapide
+
+#### 15.3.3. Avec qui ? La mêlée appartient à l’équipe
+
+#### 15.3.4. Où ? Devant le tableau
+
+### 15.4. Résultats de la mêlée
+
+#### 15.4.1. Une bonne ambiance
+
+#### 15.4.2. En chemin vers l’objectif
+
+#### 15.4.3. Des obstacles remontés
+
+### 15.5. Comment faire une mêlée ?
+
+#### 15.5.1. Se réunir
+
+#### 15.5.2. Présenter ce qu’on a donné à l'équipe
+
+#### 15.5.3. Prévoir la coopération
+
+#### 15.5.4. Identifier les obstacles
+
+#### 15.5.5. S’améliorer pour atteindre l’objectif
+
+### 15.6. De la mêlée au maul
+
+#### 15.6.1. La story se raconte
+
+#### 15.6.2. Se répartir sur les stories
+
+#### 15.6.3. Risques et bénéfices
+
+## 16. L’affinage du backlog
+
+### 16.1. Comme un fromage
+
+### 16.2. L’affinage, ritualisé
+
+#### 16.2.1. Pourquoi ? Pour réussir les prochains sprints
+
+#### 16.2.2. Avec qui ? Le Product Owner et ses coéquipiers
+
+#### 16.2.3. Quand ? Ritualiser les séances d’affinage
+
+#### 16.2.4. Avec quoi ? Un backlog structuré
+
+### 16.3. Résultats de l’affinage
+
+#### 16.3.1. Un backlog prêt
+
+#### 16.3.2. Un écosystème en confiance
+
+### 16.4. Comment affiner le backlog ?
+
+#### 16.4.1. Alimenter en stories prêtes
+
+#### 16.4.2. Décomposer
+
+#### 16.4.3. Approvisionner en nouvelles stories
+
+#### 16.4.4. Purger
+
+#### 16.4.5. Trier
+
+#### 16.4.6. Estimer
+
+#### 16.4.7. Réordonner
+
+### 16.5. Affiner les fonctionnalités
+
+#### 16.5.1. Avec qui affiner les fonctionnalités ?
+
+#### 16.5.2. Comment affiner les fonctionnalités ?
+
+## 17. La revue de sprint
+
+### 17.1. Plus qu’une démo, du don
+
+#### 17.1.1. Pourquoi ? Une invitation au feedback
+
+#### 17.1.2. Quand ? En fin de sprint
+
+#### 17.1.3. Avec qui ? Avecvtous les gens de l’écosystème
+
+#### 17.1.4. Où a lieu la revue ?
+
+#### 17.1.5. Avec quoi ? Le résultat du sprint
+
+### 17.2. Les résultats de la revue
+
+#### 17.2.1. Du feedback
+
+#### 17.2.2. Un écosystème plus en confiance
+
+#### 17.2.3. Une visibilité sur l’avancement
+
+### 17.3. Comment faire une revue ?
+
+#### 17.3.1. Préparer la revue
+
+#### 17.3.2. Statuer sur l’objectif du sprint
+
+#### 17.3.3. Effectuer la démonstration
+
+#### 17.3.4. Collecter le feedback
+
+#### 17.3.5. Évaluer l’impact obtenu
+
+#### 17.3.6. Décider de l’avenir du produit
+
+### 17.4. La variante revue en trois parties
+
+## 18. La rétrospective
+
+### 18.1. Un rite pour s’améliorer
+
+#### 18.1.1. Pourquoi ? La boucle d’amélioration
+
+#### 18.1.2. Quand ? Un moment de réflexion collective
+
+#### 18.1.3. Qui ? C’est l’équipe qui refait le match
+
+#### 18.1.4. Où se passe la rétrospective ?
+
+### 18.2. Les résultats de la rétrospective
+
+#### 18.2.1. Equipe plus soudée
+
+#### 18.2.2. Un objectif d’amélioration pour le prochain sprint
+
+### 18.3. Comment faire une rétrospective
+
+#### 18.3.1. Créer un environnement propice à l’expression
+
+#### 18.3.2. Collecter les informations sur le sprint passé
+
+#### 18.3.3. Identifier des idées d’amélioration
+
+#### 18.3.4. Sélectionner l’amélioration pour le prochain sprint
+
+#### 18.3.5. Adapter Scrum pour le prochain sprint
+
+### 18.4. Exemples de rétrospective
+
+#### 18.4.1. Etoile de mer
+
+#### 18.4.2. Rétrochâtaigne
+
+#### 18.4.3. Bateau rapide
+
+// Cinquième Partie - La coopération
+
+## 19. Coopérer pour donner un résultat de qualité
+
+### 19.1. Importance des capacités des coéquipiers
+
+### 19.2. Pratiques autour du code
+
+#### 19.2.1. Intégration continue
+
+#### 19.2.2. Développement piloté par les tests
+
+#### 19.2.3. Programmation en binôme
+
+### 19.3. Pratiques de conception
+
+#### 19.3.1. Architecture évolutive
+
+#### 19.3.2. Conception émergente
+
+### 19.4. Pratiques de test
+
+#### 19.4.1. Test d’acceptation
+
+#### 19.4.2. Accepter la story
+
+#### 19.4.3. Accepter la condition et déclarer la story finie
+
+### 19.5. Maintenance
+
+#### 19.5.1. Il n’y a pas de phase de maintenance
+
+#### 19.5.2. Gestion des bugs
+
+### 19.6. Mob programming, la quintessence de la coopération
+
+#### 19.6.1. Qu’est-ce que le mob programming ?
+
+#### 19.6.2. Les rôles
+
+#### 19.6.3. La passe
+
+## 20. Coopérer pour prévoir
+
+### 20.1. Pourquoi planifier plus loin que le sprint ?
+
+#### 20.1.1. Petit rappel sur la signification des échéances
+
+#### 20.1.2. Prévoir pour préparer la mise en service du produit
+
+#### 20.1.3. Prévoir pour décider
+
+### 20.2. Les fondamentaux de la planification agile
+
+#### 20.2.1. Durée fixée, périmètre ajusté
+
+#### 20.2.2. Vélocité et capacité
+
+#### 20.2.3. Backlog et planification
+
+#### 20.2.4. Quand planifier ?
+
+#### 20.2.5. Avec qui planifier ?
+
+### 20.3. Comment planifier une saison ?
+
+#### 20.3.1. Identifier la quantité de travail pour la saison
+
+#### 20.3.2. Mesurer la vélocité et déduire la capacité
+
+#### 20.3.3. Projeter sur le backlog
+
+#### 20.3.4. Prendre en compte les incertitudes
+
+### 20.4. Engagement sur un plan de saison
+
+#### 20.4.1. Sur un contenu ?
+
+#### 20.4.2. Sur des objectifs de saison
+
+#### 20.4.3. Engagement contractuel
+
+### 20.5. Résultats de la planification de saison
+
+#### 20.5.1. Plus de transparence
+
+#### 20.5.2. Un plan de saison actualisé
+
+#### 20.5.3. Les réponses aux questions essentielles
+
+### 20.6. Prévoir sans estimer, la quintessence de la planification
+
+## 21. Coopérer pour fluidifier le travail
+
+### 21.1. Pourquoi fluidifier ?
+
+#### 21.1.1. Problèmes rencontrés avec Scrum dans certaines situations
+
+#### 21.1.2. Brève introduction à Kanban
+
+#### 21.1.3. Limites Kanban
+
+### 21.2. Limites les travaux du sprint
+
+#### 21.2.1. Limite sur le nombre de tâches en cours
+
+#### 21.2.2. Visualiser et limiter les urgences
+
+### 21.3. Limiter les stories
+
+#### 21.3.1. Limite dans le sprint
+
+#### 21.3.2. Limite dans le backlog
+
+### 21.4. Limiter les fonctionnalités
+
+#### 21.4.1. Limite sur les colonnes
+
+#### 21.4.2. Mesure du temps de cycle
+
+### 21.5. Arrêter Scrum pour Kanban ?
+
+#### 21.5.1. risques dans l’application de Kanban sur Scrum
+
+#### 21.5.2. mauvaises raisons d’arrêter Scrum pour Kanban
+
+#### 21.5.3. bonnes raisons d’arrêter Scrum pour Kanban
+
+### 21.6. Limiter à 1, la quintessence de la fluidité
+
+## 22. Coopérer à plusieurs équipes
+
+### 22.1. Approche fractale et minimale
+
+#### 22.1.1. Commencer à petite échelle
+
+#### 22.1.2. Scrum de scrums
+
+#### 22.1.3. Échelle verticale
+
+### 22.2. Plusieurs équipes
+
+#### 22.2.1. L’écosystème avec plusieurs équipes
+
+#### 22.2.2. Equipes "fonctionnalités"
+
+#### 22.2.3. Le rôle de Product Owner
+
+#### 22.2.4. La coopération entre les équipes
+
+### 22.3. Cycle de vie produit
+
+#### 22.3.1. Synchronisation des équipes
+
+#### 22.3.2. Saisons à date fixée
+
+#### 22.3.3. Prélude
+
+### 22.4. Backlog et affinage à plusieurs équipes
+
+#### 22.4.1. Kanban des fonctionnalités partagé
+
+#### 22.4.2. Backlog de stories adapté
+
+#### 22.4.3. Affinage à grande échelle
+
+#### 22.4.4. Définitions de prêt et de fini à l’échelle
+
+### 22.5. Les rites du sprint à l’échelle
+
+#### 22.5.1. Planification de sprint
+
+#### 22.5.2. Mêlée
+
+#### 22.5.3. Revue
+
+#### 22.5.4. Rétrospective
+
+#### 22.5.5. Synthèse sur les rites
+
+### 22.6. Antipatterns d’agilité à l’échelle
+
+#### 22.6.1. La mode du scaling agile
+
+#### 22.6.2. Les néocons
+
+#### 22.6.3. Les accros aux plans
+
+#### 22.6.4. Le cargo cult Spotify
+
+### 22.7. FAST, la quintessence de la coopération à plusieurs équipes
+
+## 23. Coopérer pour améliorer les capacités de l’équipe
+
+### 23.1. Stratégie d’amélioration
+
+#### 23.1.1. Changement de paradigme
+
+#### 23.1.2. S’orienter avec Agile Fluency
+
+#### 23.1.3. Kata d’amélioration
+
+### 23.2. Comment améliorer les capacités de l'équipe ?
+
+#### 23.2.1. Où voulons-nous aller ? L’objectif de l’agilité
+
+#### 23.2.2. Où en sommes-nous de la maitrise de l’agilité ?
+
+#### 23.2.3. Quel est notre objectif agilité pour la saison ?
+
+#### 23.2.4. Quelles capacités améliorer et acquérir ?
+
+#### 23.2.5. Comment acquérir les capacités souhaitées ?
+
+### 23.3. Scrum, un outil convivial pour une agilité radicale
+
+---
 
 Le principal différenciateur de Scrum et de l'agilité, c'est l'importance accordée aux gens, le côté humain. En effet, le génie logiciel, le cycle en V, UML ne s'en préoccupent pas autant, et la gestion de projet et le management ont parfois tendance à ne considérer les personnes que comme des resources à gérer.
 
@@ -538,6 +1525,7 @@ La question de la taille idéale d'un groupe n'est pas nouvelle. Des recherches
 évaluent l'optimum à sept. Selon le Guide Scrum, une équipe ne devrait pas dépasser dix membres.
 
 distinguer le quoi (quel travail) et le comment (la façon dont l'équipe s'organise):
+
 - sur le quoi, s'il est souhaitable que les coéquipiers participent au débat, le Product Owner possède le pouvoir de décider;
 - à propos du comment, l'équipe a toute latitude. Il n'y a pas de chef qui définit et assigne les tâches, c'est l'équipe qui décide comment décomposer le travail et l'accomplir. Il n'y a pas non plus de rôle spécialisé (architecte, développeur web, tester, etc.). Chacun se détermine et le Scrum Master facilite les prises de décision collectives.
 
@@ -1539,3 +2527,13 @@ KARMA permet à une équipe de commencer son voyage avec l'agilité en l'aidant:
 2. Karma est un outil mis au point par le collectif agile radical: <https://agileradical.org/outils/karma/>.
 
 En résumé : Se lancer en équipe avec Scrum est relativement facile, pérenniser et enforcer l'agilité d'une organisation est autrement plus délicat. Cela représente un changement de paradigme qui entraîne une modification profonde. Une stratégie d'amélioration consiste à faire un atelier KARMA à chaque fin de saison pour définir l'objectif, les impacts clés et les capacités à améliorer. Coopérer pour améliorer continument ses capacités, c'est ce qui donne à l'équipe le pouvoir d'utiliser l'agilité et Scrum au service de son intention et d'en faire des outils conviviaux.
+
+---
+
+Il est important de comprendre que si Scrum était un jeu, le guide en serait les règles.
+
+Être PO est un métier à part entière qui dépasse le simple cadre de Scrum.
+(Tout comme le guide n'explique pas à un dev comment produire du code de qualité. 😉)
+
+📖 The Professional Product Owner: Leveraging Scrum as a Competitive Advantage (Don McGreal, Ralph Jocham)
+📖 Practical Product Management for Product Owners: Creating Winning Products With the Professional Product Owner Stances (Chris Lukassen, Robbin Schuurman)
