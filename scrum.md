@@ -2,8 +2,6 @@
 
 > SCRUM - un outil convival pour une agilité radicale (6e edition) - Claude AUBRY - ISBN: 978-2100828296
 
-## Sommaire
-
 <details>
 <summary>Table des matières</summary>
 
@@ -591,7 +589,30 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 
 #### 1.4.5. Faire de Scrum un outil convivial
 
+**En Résumé** - Scrum est un outil destiné à faire coopérer une équipe afin qu'elle donne un résultat de valeur pour ses parties prenantes. Son nom vient du rugby, c'est la mêlée en anglais. Scrum est devenu en quelque sorte la marque de l'agilité, la philosophie du travail adaptée au domaine de la connaissance. Si Scrum est parfois victime de son succès et trahi, l'intention est qu'il soit un outil convivial.
+
 // Première Partie - L’écosystème
+
+Le principal différenciateur de Scrum et de l'agilité, c'est l'importance accordée aux gens, le côté humain. En effet, le génie logiciel, le cycle en V, UML ne s'en préoccupent pas autant, et la gestion de projet et le management ont parfois tendance à ne considérer les personnes que comme des resources à gérer.
+
+Cependant, la place des process est toujours importante, en particulier dans les grandes organisations, et les outils, souvent imposés aux équipes, contraignent les interactions plutôt qu'elles ne les favorisent. La réponse - radicale - donnée par Scrum, c'est la notion d'**équipe auto-organisée**.
+
+L'**équipe Scrum** constitue un système complex de personnes poursuivant un objectif commun. Pour mettre en oeuvre Scrum, l'équipe ne s'isole pas à l'intérieur de sa membrane. Autour d'elle, il y a les **parties prenantes**, toutes celles et ceux qui sont intéressés par les résultats qu'elle va leur donner. Pour que l'équipe parvienne à s'auto-organiser, il convient que ses membres - les **coéquipiers** - soient en relation, non seulement entre eux, mais aussi avec les parties prenantes. Tous font partie du même **écosystème**.
+
+Deux caractéristiques spéciales bornent l'auto-organisation des coéquipiers Scrum :
+
+- un d'entre eux est chargé de la catalyser, c'est le **Scrum Master (SM)**;
+- un autre a un pouvoir de décision sur les aspects liés au produit (au quoi ?), c'est le **Product Owner (PO)**.
+
+Modèle **ACCES** :
+
+- **A**ttitude : ce que je suis
+- **C**ompétence : ce que je sais
+- **C**apacité : comment je sais faire
+- **E**xigence : comment je veux faire
+- pour **S**crum
+
+Comme dans la pyramide de Dilts, ces caractéristiques invitent à progresser vers un alignement harmonieux : pour bien tenir un rôle, il est préférable d'avoir d'abord la bonne attitude, puis de posséder les bonnes compétences, etc. C'est aussi une aide pour définir la composition d'une nouvelle équipe et, du point de vue d'un coéquipier, choisir le rôle qu'il va y jouer.
 
 ## 2. L’équipe Scrum
 
@@ -599,29 +620,71 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 
 #### 2.1.1. Une équipe c’est plus qu’un groupe
 
+Comme au rugby, une équipe agile c'est bien plus que des gens que l'on met ensemble à un moment donné. C'est aussi la some de toutes les interactions entre les coéquipiers, liés pour atteindre un objectif partagé.
+
+_[une équipe]_ est un petit nombre de personnes avec des compétences complémentaires qui sont engagées sur une mission commune avec des objectifs de performance et avec une approche pour laquelle elles se tiennent elles-mêmes mutuellement imputables.
+
 #### 2.1.2. L’équipe Scrum a une finalité
 
 #### 2.1.3. L’équipe Scrum s’adapte à la situation
+
+[les joueurs se retrouvent] dans des situations de jeu où ils devraient pouvoir développer des compétences autres que celles de leur poste.
+
+L'investissement de chaque joueur dans ces tâches qui ne relèvent pas du poste, se doit de répondre au contexte situationnel.
 
 #### 2.1.4. Scrum est un outil de focalisation pour l’équipe
 
 ### 2.2. Caractéristiques de l’équipe
 
+Pour montrer les traits essentiels d'une équipe, j'utilise l'acronyme TAPIS : **T**aille raisonnable, **A**uto-organisation, **P**luridisciplinarité, **I**dentité, **S**tabilité.
+
 #### 2.2.1. Taille raisonnable
+
+La question de la taille idéale d'un groupe n'est pas nouvelle. Des recherches
+évaluent l'optimum à sept. Selon le Guide Scrum, une équipe ne devrait pas dépasser dix membres.
 
 #### 2.2.2. Auto-organisation
 
+distinguer le quoi (quel travail) et le comment (la façon dont l'équipe s'organise):
+
+- sur le quoi, s'il est souhaitable que les coéquipiers participent au débat, le Product Owner possède le pouvoir de décider;
+- à propos du comment, l'équipe a toute latitude. Il n'y a pas de chef qui définit et assigne les tâches, c'est l'équipe qui décide comment décomposer le travail et l'accomplir. Il n'y a pas non plus de rôle spécialisé (architecte, développeur web, tester, etc.). Chacun se détermine et le Scrum Master facilite les prises de décision collectives.
+
+Il n'y a donc pas de rôle de chef de projet dans une équipe Scrum. Cependant, cela n'empêche pas l'émergence de leaders.
+
 #### 2.2.3. Pluridisciplinarité
+
+Pour arriver à obtenir régulièrement un résultat de valeur, il est nécessaire que l'équipe dispose des capacités sur toute la chaîne de valeur, de la demande des utilisateurs jusqu'à la mise en service. C'est ce qu'on appelle la pluridisciplinarité.
+
+Une équipe pluridisciplinaire c'est l'opposé des équipes constituées par spécialité:
+imaginons une équipe de développement et une autre équipe chargée de la vérification de la qualité et du test fonctionnel; quand un élément est développé par les uns, il n'est fini qu'après avoir été vérifié et testé par les autres. Cette situation engendre des temps d'attente et des dépendances qui ne sont pas compatibles avec l'agilité souhaitée.
+
+L'idée est ainsi d'acquérir continuellement de nouvelles compétences par le partage.
+
+La pluridisciplinarité vise à réduire les risques liés aux dépendances, mais pas à éliminer toutes les interactions entre l'équipe et son environnement.
 
 #### 2.2.4. Identité
 
+Ce moteur [qui motive l’equipe] c'est l'envie et le plaisir de travailler ensemble, ce sentiment d'appartenance qui forme une identité commune.
+
+L’identité de l’équipe se bâtit lors de la constitution de l'équipe (décrite dans la partie Prélude). Elle se conforte par des réussites : les rites de fin de sprint sont l'occasion de les partager avec les parties prenantes, puis de les célébrer ensemble.
+
 #### 2.2.5. Stabilité
+
+Pour devenir et rester efficace, la composition d'une équipe Scrum ne doit pas changer, car conserver les mêmes coéquipiers permet de mieux travailler ensemble et surtout de mieux vivre ensemble.
+
 
 ### 2.3. Activités d’une équipe
 
 #### 2.3.1. Coopérer
 
 #### 2.3.2. Donner
+
+Donner est une déclinaison bien plus puissante, qui ouvre vers les boucles de feedback. En effet, le cycle du don vient d'une triple obligation:
+
+- donner - pour renforcer les liens sociaux;
+- recevoir - pour ne pas offenser le donateur;
+- rendre - pour montrer sa capacité à participer au système d'échange.
 
 #### 2.3.3. Réfléchir et améliorer
 
@@ -635,9 +698,11 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 
 #### 2.4.4. Télétravail hybride
 
-## 3. Le rôle de coéquipier
+**En résumé** - L'équipe Scrum est constituée des personnes qui coopèrent pour donner un résultat à chaque sprint. Une bonne équipe est de taille raisonnable, auto-organisée, pluridisciplinaire et stable. Il est souhaitable qu'elle puisse aménager son space de travail, co-localisé ou distribué avec du télétravail.
 
-### 3.1. Un scrumeur ?
+## 3. Le rôle de coéquipier Scrum
+
+### 3.1. Un SCRUMEUR ?
 
 #### 3.1.1. Un membre d’équipe qui coopère
 
@@ -646,6 +711,8 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 ### 3.2. Activités
 
 #### 3.2.1. Une journée typique de coéquipier Scrum
+
+il est toujours important, en particulier dans les métiers de la connaissance, de réfléchir individuellement et collectivement. **Réfléchir et s'améliorer** sont les deux mamelles de l'apprentissage continu.
 
 #### 3.2.2. Rythme soutenable : temps forts, temps faibles
 
@@ -1496,69 +1563,6 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 ### 23.3. Scrum, un outil convivial pour une agilité radicale
 
 ---
-
-Le principal différenciateur de Scrum et de l'agilité, c'est l'importance accordée aux gens, le côté humain. En effet, le génie logiciel, le cycle en V, UML ne s'en préoccupent pas autant, et la gestion de projet et le management ont parfois tendance à ne considérer les personnes que comme des resources à gérer.
-
-Cependant, la place des process est toujours importante, en particulier dans les grandes organisations, et les outils, souvent imposés aux équipes, contraignent les interactions plutôt qu'elles ne les favorisent. La réponse - radicale - donnée par Scrum, c'est la notion d'équipe auto-organisée.
-
-L'équipe Scrum constitue un système complex de personnes poursuivant un objectif commun. Pour mettre en oeuvre Scrum, l'équipe ne s'isole pas à l'intérieur de sa membrane. Autour d'elle, il y a les parties prenantes, toutes celles et ceux qui sont intéressés par les résultats qu'elle va leur donner. Pour que l'équipe parvienne à s'auto-organiser, il convient que ses membres - les coéquipiers - soient en relation, non seulement entre eux, mais aussi avec les parties prenantes. Tous font partie du même écosystème.
-
-Deux caractéristiques spéciales bornent l'auto-organisation des coéquipiers Scrum :
-
-- un d'entre eux est chargé de la catalyser, c'est le Scrum Master (SM);
-- un autre a un pouvoir de décision sur les aspects liés au produit (au quoi ?), c'est le Product Owner (PO).
-
-Comme dans la pyramide de Dilts, ces caractéristiques invitent à progresser vers un alignement harmonieux : pour bien tenir un rôle, il est préférable d'avoir d'abord la bonne attitude, puis de posséder les bonnes compétences, etc. C'est aussi une aide pour définir la composition d'une nouvelle équipe et, du point de vue d'un coéquipier, choisir le rôle qu'il va y jouer.
-
-Comme au rugby, une équipe agile c'est bien plus que des gens que l'on met ensemble à un moment donné. C'est aussi la some de toutes les interactions entre les coéquipiers, liés pour atteindre un objectif partagé
-
-[une équipe] est un petit nombre de personnes avec des compétences complémentaires qui sont engagées sur une mission commune avec des objectifs de performance et avec une approche pour laquelle elles se tiennent elles-mêmes mutuellement imputables.
-
-[les joueurs se retrouvent] dans des situations de jeu où ils devraient pouvoir développer des compétences autres que celles de leur poste.
-L'investissement de chaque joueur dans ces tâches qui ne relèvent pas du poste, se doit de répondre au contexte situationnel
-
-Pour montrer les traits essentiels d'une équipe, j'utilise l'acronyme TAPIS : Taille raisonnable, Auto-organisation, Pluridisciplinarité, Identité, Stabilité
-
-- Taille raisonnable / auto-organisation
-
-La question de la taille idéale d'un groupe n'est pas nouvelle. Des recherches
-évaluent l'optimum à sept. Selon le Guide Scrum, une équipe ne devrait pas dépasser dix membres.
-
-distinguer le quoi (quel travail) et le comment (la façon dont l'équipe s'organise):
-
-- sur le quoi, s'il est souhaitable que les coéquipiers participent au débat, le Product Owner possède le pouvoir de décider;
-- à propos du comment, l'équipe a toute latitude. Il n'y a pas de chef qui définit et assigne les tâches, c'est l'équipe qui décide comment décomposer le travail et l'accomplir. Il n'y a pas non plus de rôle spécialisé (architecte, développeur web, tester, etc.). Chacun se détermine et le Scrum Master facilite les prises de décision collectives.
-
-- Pluridisciplinarité
-
-Pour y arriver, il est nécessaire qu'elle dispose des capacités sur toute la chaîne de valeur, de la demande des utilisateurs jusqu'à la mise en service. C'est ce qu'on appelle la pluridisciplinarité.
-
-Une équipe pluridisciplinaire c'est l'opposé des équipes constituées par spécialité:
-imaginons une équipe de développement et une autre équipe chargée de la vérification de la qualité et du test fonctionnel; quand un élément est développé par les uns, il n'est fini qu'après avoir été vérifié et testé par les autres. Cette situation engendre des temps d'attente et des dépendances qui ne sont pas compatibles avec l'agilité souhaitée.
-
-L'idée est ainsi d'acquérir continuellement de nouvelles compétences par le partage.
-
-La pluridisciplinarité vise à réduire les risques liés aux dépendances, mais pas à éliminer toutes les interactions entre l'équipe et son environnement.
-
-Ce moteur [qui motive l’equipe] c'est l'envie et le plaisir de travailler ensemble, ce sentiment d'appartenance qui forme une identité commune.
-
-- Identité
-
-L’identité de l’équipe se bâtit lors de la constitution de l'équipe (décrite dans la partie Prélude). Elle se conforte par des réussites : les rites de fin de sprint sont l'occasion de les partager avec les parties prenantes, puis de les célébrer ensemble.
-
-- Stabilité
-
-Pour devenir et rester efficace, la composition d'une équipe Scrum ne doit pas changer, car conserver les mêmes coéquipiers permet de mieux travailler ensemble et surtout de mieux vivre ensemble.
-
-Donner est une déclinaison bien plus puissante, qui ouvre vers les boucles de feedback. En effet, le cycle du don vient d'une triple obligation:
-
-- donner - pour renforcer les liens sociaux;
-- recevoir - pour ne pas offenser le donateur;
-- rendre - pour montrer sa capacité à participer au système d'échange.
-
-En résumé : L'équipe Scrum est constituée des personnes qui coopèrent pour donner un résultat à chaque sprint. Une bonne équipe est de taille raisonnable, auto-organisée, pluridisciplinaire et stable. Il est souhaitable qu'elle puisse aménager son space de travail, co-localisé ou distribué avec du télétravail.
-
-il est toujours important, en particulier dans les métiers de la connaissance, de réfléchir individuellement et collectivement. Réfléchir et s'améliorer sont les deux mamelles de l'apprentissage continu.
 
 Le trait de caractère souhaité est l'altruisme.
 Envie d’apprendre le domaine métier
