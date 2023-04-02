@@ -1419,7 +1419,7 @@ Le prélude comporte trois parties :
 
 L'outil support pour le prélude est un canevas: le Canvas d'Alignement Radical pour l'Equipe (CARE). Un canevas, c'est pratique pour partager l'essentiel des éléments permettant de prendre un engagement collectif.
 
-![canevas scrum CARE](./files/SCRUM_CARE_cavenas.jpg)
+![canevas scrum CARE](./files/SCRUM_CARE_canevas.jpg)
 
 Les numéros des cases correspondent à l'ordre dans lequel on les remplit.
 
