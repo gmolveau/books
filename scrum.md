@@ -589,7 +589,7 @@ Considérer Scrum comme une technique neutre d'optimisation de travail en équip
 
 #### 1.4.5. Faire de Scrum un outil convivial
 
-### En Résumé
+### En Résumé 1
 
 Scrum est un outil destiné à faire coopérer une équipe afin qu'elle donne un résultat de valeur pour ses parties prenantes. Son nom vient du rugby, c'est la mêlée en anglais. Scrum est devenu en quelque sorte la marque de l'agilité, la philosophie du travail adaptée au domaine de la connaissance. Si Scrum est parfois victime de son succès et trahi, l'intention est qu'il soit un outil convivial.
 
@@ -700,7 +700,7 @@ Donner est une déclinaison bien plus puissante, qui ouvre vers les boucles de f
 
 #### 2.4.4. Télétravail hybride
 
-### En résumé
+### En résumé 2
 
 L'équipe Scrum est constituée des personnes qui coopèrent pour donner un résultat à chaque sprint. Une bonne équipe est de taille raisonnable, auto-organisée, pluridisciplinaire et stable. Il est souhaitable qu'elle puisse aménager son space de travail, co-localisé ou distribué avec du télétravail.
 
@@ -762,7 +762,7 @@ Dans l'équipe pluridisciplinaire, chaque coéquipier est un spécialiste dans u
 
 Les "valeurs" que Scrum associe à une équipe forment l'acronyme FORCE (Focalisation Ouverture d’esprit Respect Courage Engagement).
 
-### En résumé
+### En résumé 3
 
 Les personnes de l'équipe, appelées des coéquipiers, ont une place centrale dans Scrum. Un coéquipier est désireux d'obtenir un résultat, enclin à l'entraide, avec l'envie d'apprendre. Il a les capacités d'expliquer les outils et techniques qu'il utilise, de se focaliser et de travailler en groupe. Il s'engage à suivre les règles de travail, tout en restant en accord avec son idéal.
 
@@ -880,7 +880,7 @@ Le PO est dans l'équipe, c'est un coéquipier:. Il est co-responsable et co-con
 
 En faisant la promotion du résultat de chaque sprint après des utilisateurs, il fournit à l'équipe une reconnaissance qui la motive.
 
-### En résumé
+### En résumé 4
 
 Le Product Owner pousse l'équipe à maximiser la valeur du résultat donné aux parties prenantes. Il a envie de changer le monde, il est ouvert au feedback des utilisateurs et à l'écoute des idées de ses coéquipiers. Il connaît bien le domaine et les techniques de définition de produit et possède les capacités de percevoir la valeur, prendre des décisions, détailler au bon moment et garder le cap. Suffisamment disponible, il pratique l'art de la conversation, sait dire non et défend l'équipe après des parties prenantes.
 
@@ -1007,7 +1007,7 @@ La réactivité souhaitée demande une haute disponibilité.
 
 À lui de se questioner régulièrement sur son utilité.
 
-### En résumé
+### En résumé 5
 
 Le Scrum Master entraîne les coéquipiers à coopérer et à développer leurs capacités, pour donner un résultat. Il est curieux pour l'agilité, altruiste, donateur, tenace et sensible aux émotions. Il est bien sûr compétent dans Scrum et l'agilité et sait animer un groupe. Il favorise la coopération, guide vers l'objectif et protège l'équipe. Il doit se rendre disponible, être cohérent avec les règles communes et se demander s'il est vraiment utile.
 
@@ -1095,7 +1095,7 @@ C'est aussi limiter leurs demandes urgentes, qui créent des perturbations.
 
 #### 6.6.3. Limiter les demandes urgentes
 
-### En résumé
+### En résumé 6
 
 une partie prenante est une personne intéréssée par le résultat donné par l'équipe. Elle est partie donnante, lâche prise et met en confiance. Il est indispensable qu'elle soit formée aux fondamentaux de Scrum. Elle sait transmettre son expérience, donner un bon feedback et déléguer au Product Owner. Ses devoirs de répondre rapidement aux demandes, laisser les personnes à plein temps dans l'équipe et limiter les demandes urgentes.
 
@@ -1160,7 +1160,7 @@ L'engagement d'une équipe vise à assurer l'efficacité de son action.
 
 En effet le plan de sprint est au centre de la pratique quotidienne de l'agilité. Il sert de support au rite de la mêlée quotidienne et permet de suivre l'avancement. Il montre le travail à faire, le travail en cours et le travail fini. C'est donc l'outil sur lequel va se bâtir l'auto-organisation de l'équipe. En particulier, il sert à déterminer qui fait quoi, et quand.
 
-### En résumé
+### En résumé 7
 
 Sprint, bloc de temps fixé aboutissant à créer un résultat qui permet d'apprendre, est le nom de la boucle de feedback dans Scrum, au centre de l'approche itérative et incrémentale. Un sprint possède un objectif et un plan.
 
@@ -1291,7 +1291,7 @@ L'identification de la dette technique, en vue de la limiter, va dans le sens du
 
 Travaux techniques et remboursement de dette ne sont pas toujours visibles dans le backlog. L'équipe peut décider de les inclure dans une story, considérant que c'est sa responsabilité de faire ces investissements.
 
-### En résumé
+### En résumé 8
 
 Le backlog est le réservoir des choses à faire qui alimente les boucles et qui est lui-même alimenté par le feedback issu des résultats. Un backlog est public, de taille réduite, ordonné, unique, vivant et émergent. Pour faciliter son usage, il est utile de le structurer en se basant sur la hiérarchie (fonctionnalité, story) et la vie des éléments (prêt, fini) et sur leur apport de valeur (direct, indirect).
 
@@ -1341,7 +1341,7 @@ Pour l'équipe, apprendre, c'est réduire les risques et avancer malgré les inc
 
 ### 9.4. Le résultat est nécessaire
 
-### En résumé
+### En résumé 9
 
 Le résultat du sprint est le tout que l'équipe obtient à la fin d'un sprint lui permettant d'apprendre. La qualité du résultat est vérifiée avec la définition de fini. Le résultat du sprint est utile pour apprendre. Il est nécessaire pour obtenir le feedback, moteur des boucles.
 
@@ -1405,7 +1405,9 @@ Que fait-on pendant un interlude ?
 - une purge du backlog ;
 - une prévision sur la saison suivante.
 
-### En résumé La mise en service est l'action qui apporte de la valeur aux utilisateurs. Il est souhaitable de mettre en service dès que possible pour donner cette valeur d'usage aux utilisateurs finaux et acquérir de la valeur économique. La fonctionnalité de valeur est la brique qui peut être mise en service. La saison constitue une boucle de feedback avec un horizon d'un trimestre.
+### En résumé 10
+
+La mise en service est l'action qui apporte de la valeur aux utilisateurs. Il est souhaitable de mettre en service dès que possible pour donner cette valeur d'usage aux utilisateurs finaux et acquérir de la valeur économique. La fonctionnalité de valeur est la brique qui peut être mise en service. La saison constitue une boucle de feedback avec un horizon d'un trimestre.
 
 ## Troisième Partie - Le prélude
 
@@ -1547,7 +1549,7 @@ L'alignement se formalise avec la signature de tout le monde sur le canevas CARE
 >
 > Il est souhaitable d'autoriser le retrait individuel, comme une clause de conscience dans le journalisme.
 
-### En résumé
+### En résumé 11
 
 Le prélude est une période courte préparant le basculement dans la boucle des sprints. Le prélude commence par faire naitre une équipe conviviale et alignée avec ses parties prenantes. La convivialité se construit avec le partage des idéaux individuels. L'alignement s'établit en élaborant la mission de l'équipe à partir de la vision du sponsor.
 
@@ -1638,7 +1640,7 @@ Ces stories de réduction de risque sont généralement à haute priorité. Si c
 >
 > Nous aurons confiance quand [...]
 
-### En résumé
+### En résumé 12
 
 La création du backlog passe par un alignment stratégique sur la mission, en définissant les objectifs et impacts clés de la première saison. Le pilotage par objectifs permet d'obtenir une liste de fonctionnalités. L'outil story mapping facilite la décomposition en stories et leur priorisation en tenant compte des risques pour produire le backlog initial.
 
@@ -1725,7 +1727,7 @@ L'objectif est de réfléchir ensemble à la façon dont ce prélude s'est déro
 
 #### 13.5.3. Célébration
 
-### En résumé
+### En résumé 13
 
 La capacité de l'équipe à donner un résultat se vérifier avec la réalisation d'un élément du backlog dans le contexte opérationnel de l'équipe. Ce contexte est défini avec le planning des rites, l'espace de (télé)travail, les outils, les règles et la définition de fini. Le premier affinage du backlog sert à obtenir des stories prêtes pour le premier sprint.
 
@@ -1817,7 +1819,7 @@ L'équipe s'engage à produire un résultat correspondant à l'objectif avec le 
 
 Si la planification prend trop de temps, est-ce que le Scrum Master peut affecter le travail aux personnes? Non, l'équipe ne serait pas engagée.
 
-### En résumé
+### En résumé 14
 
 La planification du sprint est le rite au tout début du sprint servant à déterminer l'objectif et à produire le plan de sprint. Pour la réussir, il convient de ne pas la voir uniquement comme une séance de planification, mais aussi comme un exercice collectif pendant lequel l'équipe apprend à s'auto-organiser et à partager la connaissance sur le produit et sur la solution pour le développer.
 
@@ -1947,7 +1949,7 @@ Dans cette approche Maul, les trois questions ne sont pas pour chaque coéquipie
 
 #### 15.6.3. Risques et bénéfices
 
-### En résumé
+### En résumé 15
 
 La mêlée est le rite de partage quotidien entre les membres de l'équipe permettant d'organiser la journée et de vérifier l'alignement sur l'objectif du sprint. C'est une pratique renforçant l'auto-organisation qui a prouvé son efficacité et qui ne coûte pas cher à mettre en place. Il ne s'agit pas simplement de rester debout et de répondre aux trois questions. L'objectif est de mettre l'équipe en situation de réussir le sprint. Pour cela, les obstacles sont identifiés et les rendez-vous pris pour les éliminer; les points de synchronisation de la journée sont définis.
 
@@ -2061,7 +2063,7 @@ L’estimation se pratique le plus souvent avec du planning poker. Ce «jeu» es
 
 Les fonctionnalités sont ordonnées selon valeur - estimée - qu'elles vont apporter aux utilisateurs. (fibonacci)
 
-### En résumé
+### En résumé 16
 
 L'affinage est le rite qui consiste à maintenir un backlog prêt, pour augmenter les chances de succès des futurs sprints. La définition de prêt permet de enforcer la confiance de l'équipe à finir une story dans un sprint. L'affinage se pratique en équipe avec des conversations sur les stories. Il consiste à alimenter, décomposer, approvisionner, purger, trier, estimer et réordonner.
 
@@ -2139,7 +2141,7 @@ La variante de revue en trois parties :
 - La revue externe est consacrée à la démo et a feedback.
 - La revue de pilotage se déroule avec les managers impliqués dans le pilotage : elle porte sur l'avancement avec les indicateurs que le PO et le SM ont eu le temps de préparer après la revue externe. C'est le bon moment pour prendre, si nécessaire, une décision sur la prochaine mise en service.
 
-### En résumé
+### En résumé 17
 
 La revue sert à collecter le feedback des parties prenantes et prendre une décision sur le résultat obtenu en fin de sprint. Ce rite est l'occasion de partager les réalisations de l'équipe avec le reste de l'organisation. La visibilité apportée et le feedback reçu permettent d'augmenter les chances que le produit soit un succès.
 
@@ -2216,7 +2218,7 @@ La première amélioration pour laquelle l'équipe peut agir sera retenue.
 
 Ce jeu est dérivé du Speed boat, un des Innovation Games, utilisé pour le ressenti des utilisateurs sur un produit.
 
-### En résumé
+### En résumé 18
 
 La rétrospective est le rite d'amélioration collective qui s'appuie sur le passé pour préparer un meilleur future. L'équipe collecte les informations marquantes du sprint, puis exprime son ressenti sur ce qui s'est passé. Ensuite, elle découvre des axes d'amélioration, en sélectionne certains et définit son objectif d'amélioration pour le prochain sprint. Permettant de bâtir une cuture commune, la rétrospective est la porte d'entrée vers la plénitude individuelle et collective.
 
@@ -2366,7 +2368,7 @@ Le mob programming utilise un pattern particulier du pair programming dénommé 
 
 #### 19.6.3. La passe
 
-### En résumé
+### En résumé 19
 
 L'usage de pratiques d'ingénierie est obligatoire pour une équipe Scrum qui développe un produit logiciel. L'intégration continue, le développement piloté par les tests et la programmation en binôme sont des capacités qui permettent d'obtenir un résultat de qualité. Avec Scrum, l'équipe fait de l'architecture évolutive et de la conception émergente. L'objectif de ces pratiques est de limiter le nombre de bugs et l'accumulation de dette technique. Le mob programming est la quintessence de la coopération.
 
@@ -2485,7 +2487,7 @@ Ce mouvement veut faire prendre conscience que les estimations dans le développ
 
 Un moyen de se passer d'estimation est de mesurer le temps de cycle (notion kanban).
 
-### En résumé
+### En résumé 20
 
 La planification de saison permet de prendre des décisions sur le produit. C'est l'équipe elle-même qui estime et planifie. Pour cela, il lui faut identifier la quantité de travail à faire, mesurer la vélocité pour en déduire la capacité prévue, projeter sur le reste à faire et ajouter la marge d'incertitude. I est important de réfléchir à la précision souhaitée pour éviter de gaspiller du temps à faire des estimations.
 
@@ -2631,7 +2633,7 @@ Arrête de commencer, commencer à finir.
 
 C'est plus facile d'arriver à une limite de 1 pour les fonctionnalités. Se focaliser sur une seule fonctionnalité, la finir et la mettre en service immédiatement réduit le temps de cycle et donne de la valeur plus vite aux utilisateurs.
 
-### En résumé
+### En résumé 21
 
 Ajouter du Kanban à Scrum permet d'améliorer la fluidité de la coopération. La limite du travail en cours est la pratique Kanban pour éviter les à-coups. On peut limiter le nombre de tâches, mais il est préférable de s'attaquer aux stories ou aux fonctionnalités. Cela reste du Scrum et en enforce l'agilité en s'alignant avec ce slogan: «Arrêter de commencer, commencer à finir».
 
@@ -2730,7 +2732,7 @@ Il ne s'agit pas d'un modèle à suivre mais simplement d'une expérience très 
 
 ### 22.7. FAST, la quintessence de la coopération à plusieurs équipes
 
-### En résumé
+### En résumé 22
 
 Scrum n'est pas réservé aux petits projets. La coopération de plusieurs équipes est possible, mais doit rester dans d'esprit « agile». Tout le monde suit le même rythme des sprints et des saisons. Le point clé est de constituer des équipes «fonctionnalité», responsables de la production de la valeur. Travailler à plusieurs équipes nécessite d'ajuster le rôle du Product Owner et d'ajouter des rites à la synchronisation entre les équipes. Un seul tableau de fonctionnalités suffit, chaque équipe ayant son backlog de stories. Les sprints se déroulent de façon presque habituelle pour les équipes. On ajoute une séance d'affinage global pour affecter les fonctionnalités et des mêlées de synchronisation entre les équipes.
 
@@ -2767,7 +2769,7 @@ KARMA permet à une équipe de commencer son voyage avec l'agilité en l'aidant:
 
 ### 23.3. Scrum, un outil convivial pour une agilité radicale
 
-### En résumé
+### En résumé 23
 
 Se lancer en équipe avec Scrum est relativement facile, pérenniser et enforcer l'agilité d'une organisation est autrement plus délicat. Cela représente un changement de paradigme qui entraîne une modification profonde. Une stratégie d'amélioration consiste à faire un atelier KARMA à chaque fin de saison pour définir l'objectif, les impacts clés et les capacités à améliorer. Coopérer pour améliorer continument ses capacités, c'est ce qui donne à l'équipe le pouvoir d'utiliser l'agilité et Scrum au service de son intention et d'en faire des outils conviviaux.
 
