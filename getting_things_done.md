@@ -15,6 +15,8 @@
 - [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) ([wayback archive](https://web.archive.org/web/20220514051100/http://hamberg.no/gtd/)) ([PDF](./files/GTD_in_15_minutes_A_Pragmatic_Guide_to_Getting_Things_Done.pdf))
 - [How I GTD](https://thepenguin.eu/2018-09-26-how-i-gtd/) ([wayback archive](https://web.archive.org/web/20220808215212/https://thepenguin.eu/2018-09-26-how-i-gtd/))
 - [GTD for academics](https://rtalbert.org/gtd-for-academics-simple-trusted-system/) ([wayback archive](https://web.archive.org/web/20220819070521/https://rtalbert.org/gtd-for-academics-simple-trusted-system/))
+- [a reddit comment](https://www.reddit.com/r/gtd/comments/14rkk3f/comment/jqsu9jh/)
+- [Getting Things Done for Hackers](https://gtdfh.liw.fi/) ([wayback archive](https://web.archive.org/web/20240217133105/https://gtdfh.liw.fi/))
 
 ## 2015 english updated edition
 
