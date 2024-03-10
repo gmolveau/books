@@ -41,7 +41,7 @@
 
 ![complete GTD process](files/GTD_complete.jpg "Complete GTD process")
 
-+ [PDF version](./files/GTD_complete_drawio.pdf)
++ [PDF version](./files/GTD_complete.pdf)
 
 #### Introduction
 
